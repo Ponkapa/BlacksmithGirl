@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 5570b04d276257a4ea50b946637c46ea
+timeCreated: 1463487444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DarkStage_0
+    21300002: DarkStage_1
+    21300004: DarkStage_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DarkStage_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 73
+        width: 246
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: -177.5}
+        - {x: 114, y: -143.5}
+        - {x: 114, y: -106.5}
+        - {x: 102, y: -100.5}
+        - {x: 115, y: -70.5}
+        - {x: 117, y: -35.5}
+        - {x: 101, y: -25.5}
+        - {x: 123, y: 12.5}
+        - {x: 123, y: 131.5}
+        - {x: 109, y: 164.5}
+        - {x: 117, y: 177.5}
+        - {x: 96, y: 210.5}
+        - {x: 76, y: 215.5}
+        - {x: 32, y: 245.5}
+        - {x: -27, y: 245.5}
+        - {x: -31, y: 243.5}
+        - {x: -66, y: 217.5}
+        - {x: -91, y: 210.5}
+        - {x: -109, y: 180.5}
+        - {x: -108, y: 143.5}
+        - {x: -120, y: 123.5}
+        - {x: -118, y: 89.5}
+        - {x: -123, y: 70.5}
+        - {x: -123, y: 39.5}
+        - {x: -120, y: 24.5}
+        - {x: -102, y: -12.5}
+        - {x: -112, y: -75.5}
+        - {x: -97, y: -99.5}
+        - {x: -107, y: -106.5}
+        - {x: -108, y: -136.5}
+        - {x: -107, y: -144.5}
+        - {x: -101, y: -148.5}
+        - {x: -96, y: -150.5}
+        - {x: -111, y: -186.5}
+        - {x: -111, y: -238.5}
+        - {x: -105, y: -245.5}
+        - {x: 115, y: -245.5}
+        - {x: 119, y: -242.5}
+        - {x: 120, y: -189.5}
+        - {x: 119, y: -182.5}
+    - name: DarkStage_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 73
+        width: 239
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112.5, y: -113.5}
+        - {x: 108.5, y: -99.5}
+        - {x: 114.5, y: -40.5}
+        - {x: 104.5, y: -32.5}
+        - {x: 99.5, y: -29.5}
+        - {x: 104.5, y: -2.5}
+        - {x: 119.5, y: 23.5}
+        - {x: 119.5, y: 59.5}
+        - {x: 113.5, y: 86.5}
+        - {x: 119.5, y: 92.5}
+        - {x: 119.5, y: 130.5}
+        - {x: 109.5, y: 157.5}
+        - {x: 113.5, y: 182.5}
+        - {x: 80.5, y: 214.5}
+        - {x: 56.5, y: 220.5}
+        - {x: 28.5, y: 245.5}
+        - {x: -35.5, y: 245.5}
+        - {x: -69.5, y: 214.5}
+        - {x: -81.5, y: 214.5}
+        - {x: -98.5, y: 197.5}
+        - {x: -110.5, y: 180.5}
+        - {x: -111.5, y: 143.5}
+        - {x: -119.5, y: 125.5}
+        - {x: -119.5, y: 17.5}
+        - {x: -102.5, y: -10.5}
+        - {x: -117.5, y: -35.5}
+        - {x: -115.5, y: -78.5}
+        - {x: -108.5, y: -81.5}
+        - {x: -119.5, y: -140.5}
+        - {x: -119.5, y: -146.5}
+        - {x: -101.5, y: -154.5}
+        - {x: -116.5, y: -194.5}
+        - {x: -114.5, y: -235.5}
+        - {x: -112.5, y: -242.5}
+        - {x: -108.5, y: -245.5}
+        - {x: 112.5, y: -245.5}
+        - {x: 117.5, y: -239.5}
+        - {x: 115.5, y: -185.5}
+        - {x: 108.5, y: -180.5}
+    - name: DarkStage_2
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 73
+        width: 240
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: -180.5}
+        - {x: 111, y: -141.5}
+        - {x: 110, y: -112.5}
+        - {x: 107, y: -101.5}
+        - {x: 115, y: -37.5}
+        - {x: 104, y: -28.5}
+        - {x: 120, y: 21.5}
+        - {x: 120, y: 129.5}
+        - {x: 110, y: 178.5}
+        - {x: 109, y: 181.5}
+        - {x: 103, y: 189.5}
+        - {x: 85, y: 210.5}
+        - {x: 80, y: 213.5}
+        - {x: 34, y: 241.5}
+        - {x: 29, y: 245.5}
+        - {x: -32, y: 245.5}
+        - {x: -69, y: 215.5}
+        - {x: -89, y: 212.5}
+        - {x: -114, y: 183.5}
+        - {x: -114, y: 133.5}
+        - {x: -120, y: 127.5}
+        - {x: -120, y: 89.5}
+        - {x: -113, y: 87.5}
+        - {x: -120, y: 61.5}
+        - {x: -120, y: 20.5}
+        - {x: -103, y: -11.5}
+        - {x: -114, y: -36.5}
+        - {x: -109, y: -80.5}
+        - {x: -118, y: -104.5}
+        - {x: -109, y: -154.5}
+        - {x: -114, y: -186.5}
+        - {x: -114, y: -237.5}
+        - {x: -112, y: -242.5}
+        - {x: -108, y: -245.5}
+        - {x: 113, y: -245.5}
+        - {x: 116, y: -244.5}
+        - {x: 119, y: -189.5}
+        - {x: 109, y: -179.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

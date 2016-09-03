@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: e2f0961508c2f424eb635c4006e1e8db
+timeCreated: 1463487770
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VillageElements2_0
+    21300002: VillageElements2_1
+    21300004: VillageElements2_2
+    21300006: VillageElements2_3
+    21300008: VillageElements2_4
+    21300010: VillageElements2_5
+    21300012: VillageElements2_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: VillageElements2_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 575
+        width: 379
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 140.5, y: 55.5}
+        - {x: 189.5, y: 29.5}
+        - {x: 189.5, y: 60.5}
+        - {x: 183.5, y: 92.5}
+        - {x: 171.5, y: 98.5}
+        - {x: 179.5, y: 109.5}
+        - {x: 177.5, y: 122.5}
+        - {x: 152.5, y: 140.5}
+        - {x: 15.5, y: 157.5}
+        - {x: -57.5, y: 182.5}
+        - {x: -79.5, y: 182.5}
+        - {x: -82.5, y: 173.5}
+        - {x: -44.5, y: 155.5}
+        - {x: -111.5, y: 153.5}
+        - {x: -113.5, y: 143.5}
+        - {x: -109.5, y: 142.5}
+        - {x: -158.5, y: 144.5}
+        - {x: -186.5, y: 98.5}
+        - {x: -189.5, y: 92.5}
+        - {x: -189.5, y: 72.5}
+        - {x: -153.5, y: 80.5}
+        - {x: -172.5, y: 54.5}
+        - {x: -172.5, y: 49.5}
+        - {x: -169.5, y: 46.5}
+        - {x: -176.5, y: 32.5}
+        - {x: -187.5, y: 9.5}
+        - {x: -180.5, y: 8.5}
+        - {x: -117.5, y: 63.5}
+        - {x: -120.5, y: 44.5}
+        - {x: -115.5, y: 21.5}
+        - {x: -112.5, y: -175.5}
+        - {x: -86.5, y: -182.5}
+        - {x: -2.5, y: -182.5}
+        - {x: 34.5, y: -179.5}
+        - {x: 120.5, y: -154.5}
+        - {x: 123.5, y: -7.5}
+    - name: VillageElements2_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 606
+        width: 322
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: -4}
+        - {x: 161, y: 9}
+        - {x: 161, y: 29}
+        - {x: 158, y: 41}
+        - {x: 142, y: 65}
+        - {x: 117, y: 75}
+        - {x: 116, y: 111}
+        - {x: 113, y: 141}
+        - {x: 104, y: 147}
+        - {x: 42, y: 147}
+        - {x: 36, y: 136}
+        - {x: 27, y: 125}
+        - {x: -6, y: 130}
+        - {x: -63, y: 108}
+        - {x: -130, y: 69}
+        - {x: -143, y: 59}
+        - {x: -161, y: 36}
+        - {x: -161, y: 8}
+        - {x: -150, y: -10}
+        - {x: -120, y: -19}
+        - {x: -119, y: -142}
+        - {x: -114, y: -147}
+        - {x: 115, y: -147}
+        - {x: 117, y: -146}
+        - {x: 115, y: -48}
+        - {x: 128, y: -12}
+    - name: VillageElements2_2
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 655
+        width: 158
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 83.5}
+        - {x: -79, y: 67.5}
+        - {x: -79, y: -71.5}
+        - {x: -52, y: -83.5}
+        - {x: 68, y: -83.5}
+        - {x: 77, y: -82.5}
+        - {x: 79, y: -71.5}
+        - {x: 79, y: 36.5}
+        - {x: 26, y: 83.5}
+    - name: VillageElements2_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 414
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 60.5}
+        - {x: -64, y: 53.5}
+        - {x: -106, y: 3.5}
+        - {x: -106, y: -51.5}
+        - {x: -103, y: -60.5}
+        - {x: 89, y: -60.5}
+        - {x: 106, y: -47.5}
+        - {x: 106, y: 21.5}
+        - {x: 67, y: 60.5}
+    - name: VillageElements2_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 294
+        width: 409
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.5, y: 10}
+        - {x: 109.5, y: 62}
+        - {x: 202.5, y: 103}
+        - {x: 204.5, y: 108}
+        - {x: 204.5, y: 134}
+        - {x: 198.5, y: 136}
+        - {x: 182.5, y: 136}
+        - {x: -182.5, y: -15}
+        - {x: -204.5, y: -28}
+        - {x: -204.5, y: -44}
+        - {x: -165.5, y: -49}
+        - {x: -106.5, y: -90}
+        - {x: -65.5, y: -104}
+        - {x: -10.5, y: -136}
+        - {x: 63.5, y: -136}
+        - {x: 105.5, y: -110}
+        - {x: 113.5, y: -66}
+        - {x: 106.5, y: -21}
+    - name: VillageElements2_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 322
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: 0}
+        - {x: 161, y: 11}
+        - {x: 161, y: 28}
+        - {x: 154, y: 52}
+        - {x: 120, y: 75}
+        - {x: 116, y: 121}
+        - {x: 112, y: 142}
+        - {x: 105, y: 147}
+        - {x: 43, y: 147}
+        - {x: 37, y: 139}
+        - {x: 26, y: 127}
+        - {x: -6, y: 129}
+        - {x: -60, y: 108}
+        - {x: -92, y: 92}
+        - {x: -127, y: 73}
+        - {x: -144, y: 56}
+        - {x: -161, y: 32}
+        - {x: -161, y: 6}
+        - {x: -158, y: -6}
+        - {x: -144, y: -13}
+        - {x: -119, y: -18}
+        - {x: -120, y: -143}
+        - {x: -115, y: -147}
+        - {x: 113, y: -147}
+        - {x: 116, y: -145}
+        - {x: 119, y: -11}
+        - {x: 135, y: -9}
+    - name: VillageElements2_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 7
+        width: 299
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149.5, y: -86}
+        - {x: 149.5, y: 26}
+        - {x: -43.5, y: 118}
+        - {x: -146.5, y: 118}
+        - {x: -149.5, y: 116}
+        - {x: -149.5, y: 84}
+        - {x: -130.5, y: 9}
+        - {x: -108.5, y: -1}
+        - {x: -72.5, y: -118}
+        - {x: 108.5, y: -118}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

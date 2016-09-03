@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 98eb8cf61e83c60438312003a361886b
+timeCreated: 1463487502
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LightningStage_0
+    21300002: LightningStage_1
+    21300004: LightningStage_2
+    21300006: LightningStage_3
+    21300008: LightningStage_4
+    21300010: LightningStage_5
+    21300012: LightningStage_6
+    21300014: LightningStage_7
+    21300016: LightningStage_8
+    21300018: LightningStage_9
+    21300020: LightningStage_10
+    21300022: LightningStage_11
+    21300024: LightningStage_12
+    21300026: LightningStage_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LightningStage_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 812
+        width: 133
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 70}
+        - {x: -66.5, y: 62}
+        - {x: -66.5, y: 24}
+        - {x: -53.5, y: 22}
+        - {x: -39.5, y: -70}
+        - {x: 66.5, y: -70}
+        - {x: 66.5, y: 55}
+        - {x: 51.5, y: 70}
+    - name: LightningStage_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 812
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 61.5}
+        - {x: -53.5, y: -61.5}
+        - {x: 53.5, y: -61.5}
+        - {x: 53.5, y: 61.5}
+    - name: LightningStage_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 811
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 69.5}
+        - {x: -66.5, y: 55.5}
+        - {x: -66.5, y: -69.5}
+        - {x: 39.5, y: -69.5}
+        - {x: 66.5, y: -2.5}
+        - {x: 66.5, y: 56.5}
+        - {x: 35.5, y: 69.5}
+    - name: LightningStage_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 838
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 52.5}
+        - {x: -52.5, y: -52.5}
+        - {x: 52.5, y: -52.5}
+        - {x: 52.5, y: 52.5}
+    - name: LightningStage_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 640
+        width: 191
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 52}
+        - {x: -95.5, y: -21}
+        - {x: -95.5, y: -52}
+        - {x: 95.5, y: -52}
+        - {x: 95.5, y: -15}
+        - {x: 60.5, y: 52}
+    - name: LightningStage_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 714
+        width: 246
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 48}
+        - {x: -83, y: 25}
+        - {x: -123, y: -13}
+        - {x: -123, y: -38}
+        - {x: -117, y: -48}
+        - {x: 123, y: -48}
+        - {x: 123, y: -26}
+        - {x: 37, y: 48}
+    - name: LightningStage_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 574
+        width: 371
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45.5}
+        - {x: -185.5, y: -11.5}
+        - {x: -185.5, y: -45.5}
+        - {x: 185.5, y: -45.5}
+        - {x: 185.5, y: -16.5}
+        - {x: 85.5, y: 45.5}
+    - name: LightningStage_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 445
+        width: 331
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 49}
+        - {x: 13.5, y: 49}
+        - {x: -165.5, y: -30}
+        - {x: -165.5, y: -49}
+        - {x: 165.5, y: -49}
+        - {x: 165.5, y: -20}
+        - {x: 140.5, y: 0}
+    - name: LightningStage_8
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 459
+        width: 201
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 27}
+        - {x: -21.5, y: 27}
+        - {x: -100.5, y: 0}
+        - {x: -100.5, y: -24}
+        - {x: -96.5, y: -27}
+        - {x: 99.5, y: -27}
+        - {x: 100.5, y: -22}
+        - {x: 100.5, y: 5}
+        - {x: 94.5, y: 9}
+    - name: LightningStage_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 228
+        width: 191
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 52}
+        - {x: -33.5, y: 49}
+        - {x: -95.5, y: -18}
+        - {x: -95.5, y: -47}
+        - {x: -92.5, y: -52}
+        - {x: 63.5, y: -52}
+        - {x: 78.5, y: -51}
+        - {x: 95.5, y: -43}
+        - {x: 95.5, y: -13}
+        - {x: 51.5, y: 52}
+    - name: LightningStage_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 302
+        width: 246
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: -15.5}
+        - {x: -123, y: -37.5}
+        - {x: -115, y: -44.5}
+        - {x: -33, y: -47.5}
+        - {x: 123, y: -47.5}
+        - {x: 123, y: -18.5}
+        - {x: 118, y: -6.5}
+        - {x: 62, y: 47.5}
+        - {x: -32, y: 47.5}
+        - {x: -92, y: 28.5}
+    - name: LightningStage_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 161
+        width: 371
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -155.5, y: 45.5}
+        - {x: -185.5, y: -18.5}
+        - {x: -185.5, y: -37.5}
+        - {x: -181.5, y: -45.5}
+        - {x: 156.5, y: -45.5}
+        - {x: 185.5, y: -40.5}
+        - {x: 185.5, y: 39.5}
+        - {x: 159.5, y: 45.5}
+    - name: LightningStage_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 32
+        width: 331
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.5, y: 49}
+        - {x: 1.5, y: 49}
+        - {x: -164.5, y: -28}
+        - {x: -165.5, y: -30}
+        - {x: -165.5, y: -49}
+        - {x: 143.5, y: -49}
+        - {x: 165.5, y: -43}
+        - {x: 165.5, y: -15}
+        - {x: 160.5, y: -6}
+    - name: LightningStage_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 47
+        width: 201
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26.5}
+        - {x: -100.5, y: 3.5}
+        - {x: -100.5, y: -26.5}
+        - {x: 100.5, y: -26.5}
+        - {x: 100.5, y: 12.5}
+        - {x: 57.5, y: 26.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

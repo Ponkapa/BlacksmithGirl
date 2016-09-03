@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 3a6c166573144944a8867ab516e65c12
+timeCreated: 1464138197
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TimerButton_0
+    21300002: TimerButton_2
+    21300004: TimerButton_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TimerButton_0
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 337
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TimerButton_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 251
+        width: 354
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 41}
+        - {x: -71, y: 74}
+        - {x: -170, y: 74}
+        - {x: -177, y: 72}
+        - {x: -177, y: 60}
+        - {x: -162, y: 14}
+        - {x: -166, y: -61}
+        - {x: -160, y: -63}
+        - {x: -65, y: -39}
+        - {x: 29, y: -66}
+        - {x: 96, y: -74}
+        - {x: 174, y: -74}
+        - {x: 163, y: -10}
+        - {x: 177, y: 38}
+        - {x: 177, y: 52}
+    - name: TimerButton_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 265
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

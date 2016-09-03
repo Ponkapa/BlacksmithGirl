@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 4e0d685b93c5802428367762c6bd1542
+timeCreated: 1463354890
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StageBossAttack_0
+    21300002: StageBossAttack_1
+    21300004: StageBossAttack_2
+    21300006: StageBossAttack_3
+    21300008: StageBossAttack_4
+    21300010: StageBossAttack_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StageBossAttack_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 506
+        width: 310
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -167.5}
+        - {x: 34, y: -171.5}
+        - {x: 55, y: -170.5}
+        - {x: 64, y: -117.5}
+        - {x: 63, y: -101.5}
+        - {x: 56, y: -95.5}
+        - {x: 68, y: -106.5}
+        - {x: 74, y: -140.5}
+        - {x: 105, y: -106.5}
+        - {x: 155, y: 74.5}
+        - {x: 155, y: 105.5}
+        - {x: 144, y: 114.5}
+        - {x: 40, y: 183.5}
+        - {x: 30, y: 185.5}
+        - {x: -34, y: 185.5}
+        - {x: -43, y: 176.5}
+        - {x: -155, y: 113.5}
+        - {x: -155, y: -135.5}
+        - {x: -76, y: -149.5}
+        - {x: -69, y: -147.5}
+        - {x: -50, y: -118.5}
+        - {x: -45, y: -107.5}
+        - {x: -40, y: -151.5}
+        - {x: -38, y: -153.5}
+        - {x: -36, y: -153.5}
+        - {x: -34, y: -152.5}
+        - {x: -29, y: -143.5}
+        - {x: -28, y: -136.5}
+        - {x: -28, y: -132.5}
+        - {x: -27, y: -131.5}
+        - {x: -28, y: -135.5}
+        - {x: -27, y: -138.5}
+        - {x: -21, y: -136.5}
+        - {x: -27, y: -153.5}
+        - {x: -32, y: -171.5}
+        - {x: -22, y: -185.5}
+        - {x: -7, y: -185.5}
+        - {x: -2, y: -176.5}
+        - {x: 29, y: -169.5}
+        - {x: 30, y: -146.5}
+    - name: StageBossAttack_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 503
+        width: 273
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -170}
+        - {x: 65.5, y: -166}
+        - {x: 70.5, y: -117}
+        - {x: 69.5, y: -106}
+        - {x: 66.5, y: -99}
+        - {x: 63.5, y: -96}
+        - {x: 58.5, y: -94}
+        - {x: 57.5, y: -90}
+        - {x: 67.5, y: -101}
+        - {x: 84.5, y: -127}
+        - {x: 106.5, y: -155}
+        - {x: 136.5, y: -32}
+        - {x: 136.5, y: 151}
+        - {x: 45.5, y: 185}
+        - {x: -46.5, y: 185}
+        - {x: -136.5, y: 116}
+        - {x: -136.5, y: 73}
+        - {x: -89.5, y: 35}
+        - {x: -58.5, y: 44}
+        - {x: -95.5, y: -33}
+        - {x: -124.5, y: -122}
+        - {x: -68.5, y: -149}
+        - {x: -64.5, y: -151}
+        - {x: -30.5, y: -154}
+        - {x: -27.5, y: -153}
+        - {x: -22.5, y: -143}
+        - {x: -21.5, y: -138}
+        - {x: -21.5, y: -134}
+        - {x: -20.5, y: -133}
+        - {x: -19.5, y: -129}
+        - {x: -19.5, y: -132}
+        - {x: -21.5, y: -136}
+        - {x: -19.5, y: -138}
+        - {x: -32.5, y: -164}
+        - {x: -16.5, y: -185}
+        - {x: 18.5, y: -185}
+        - {x: 36.5, y: -172}
+        - {x: 35.5, y: -148}
+        - {x: 36.5, y: -166}
+    - name: StageBossAttack_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 506
+        width: 248
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -169.5}
+        - {x: 60, y: -164.5}
+        - {x: 66, y: -115.5}
+        - {x: 65, y: -102.5}
+        - {x: 58, y: -95.5}
+        - {x: 50, y: -91.5}
+        - {x: 53, y: -90.5}
+        - {x: 61, y: -98.5}
+        - {x: 72, y: -107.5}
+        - {x: 76, y: -125.5}
+        - {x: 80, y: -127.5}
+        - {x: 84, y: -126.5}
+        - {x: 102, y: -100.5}
+        - {x: 93, y: -95.5}
+        - {x: 80, y: -66.5}
+        - {x: 124, y: 35.5}
+        - {x: 124, y: 100.5}
+        - {x: 28, y: 185.5}
+        - {x: -48, y: 185.5}
+        - {x: -124, y: 101.5}
+        - {x: -124, y: 69.5}
+        - {x: -119, y: 62.5}
+        - {x: -115, y: 61.5}
+        - {x: -112, y: 64.5}
+        - {x: -122, y: -119.5}
+        - {x: -83, y: -161.5}
+        - {x: -27, y: -168.5}
+        - {x: -25, y: -133.5}
+        - {x: -25, y: -123.5}
+        - {x: -25, y: -136.5}
+        - {x: -21, y: -140.5}
+        - {x: -25, y: -153.5}
+        - {x: -23, y: -158.5}
+        - {x: -19, y: -157.5}
+        - {x: -19, y: -185.5}
+        - {x: -13, y: -185.5}
+        - {x: 31, y: -163.5}
+        - {x: 31, y: -150.5}
+        - {x: 31, y: -167.5}
+    - name: StageBossAttack_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 64
+        width: 204
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -96.5}
+        - {x: 55, y: -92.5}
+        - {x: 64, y: -96.5}
+        - {x: 78, y: -108.5}
+        - {x: 82, y: -126.5}
+        - {x: 85, y: -127.5}
+        - {x: 93, y: -131.5}
+        - {x: 102, y: -115.5}
+        - {x: 102, y: -22.5}
+        - {x: 57, y: 181.5}
+        - {x: 52, y: 185.5}
+        - {x: -39, y: 185.5}
+        - {x: -102, y: 64.5}
+        - {x: -102, y: -113.5}
+        - {x: -61, y: -160.5}
+        - {x: -33, y: -158.5}
+        - {x: -26, y: -152.5}
+        - {x: -22, y: -142.5}
+        - {x: -21, y: -137.5}
+        - {x: -20, y: -125.5}
+        - {x: -19, y: -124.5}
+        - {x: -19, y: -131.5}
+        - {x: -21, y: -134.5}
+        - {x: -21, y: -136.5}
+        - {x: -19, y: -138.5}
+        - {x: -16, y: -139.5}
+        - {x: -22, y: -157.5}
+        - {x: -18, y: -159.5}
+        - {x: -12, y: -157.5}
+        - {x: -14, y: -185.5}
+        - {x: 18, y: -185.5}
+        - {x: 34, y: -178.5}
+        - {x: 65, y: -167.5}
+        - {x: 73, y: -105.5}
+    - name: StageBossAttack_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 46
+        width: 204
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -162.5}
+        - {x: 37, y: -172.5}
+        - {x: 59, y: -166.5}
+        - {x: 61, y: -162.5}
+        - {x: 70, y: -116.5}
+        - {x: 69, y: -101.5}
+        - {x: 62, y: -94.5}
+        - {x: 64, y: -97.5}
+        - {x: 73, y: -105.5}
+        - {x: 83, y: -129.5}
+        - {x: 90, y: -127.5}
+        - {x: 102, y: -105.5}
+        - {x: 102, y: -81.5}
+        - {x: 62, y: 116.5}
+        - {x: 37, y: 185.5}
+        - {x: -46, y: 185.5}
+        - {x: -102, y: -0.5}
+        - {x: -102, y: -109.5}
+        - {x: -101, y: -109.5}
+        - {x: -98, y: -107.5}
+        - {x: -70, y: -107.5}
+        - {x: -64, y: -101.5}
+        - {x: -72, y: -144.5}
+        - {x: -70, y: -149.5}
+        - {x: -65, y: -148.5}
+        - {x: -30, y: -153.5}
+        - {x: -27, y: -150.5}
+        - {x: -23, y: -140.5}
+        - {x: -21, y: -134.5}
+        - {x: -21, y: -135.5}
+        - {x: -18, y: -138.5}
+        - {x: -35, y: -164.5}
+        - {x: -31, y: -185.5}
+        - {x: 1, y: -185.5}
+        - {x: 34, y: -165.5}
+        - {x: 34, y: -158.5}
+        - {x: 33, y: -147.5}
+        - {x: 44, y: -130.5}
+      - - {x: 80, y: 45.5}
+        - {x: 82, y: 43.5}
+        - {x: 85, y: 44.5}
+        - {x: 85, y: 47.5}
+        - {x: 83, y: 49.5}
+        - {x: 80, y: 48.5}
+    - name: StageBossAttack_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 34
+        width: 204
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -127}
+        - {x: 36, y: -171}
+        - {x: 47, y: -165}
+        - {x: 55, y: -167}
+        - {x: 62, y: -165}
+        - {x: 69, y: -118}
+        - {x: 70, y: -110}
+        - {x: 68, y: -103}
+        - {x: 63, y: -96}
+        - {x: 58, y: -93}
+        - {x: 57, y: -90}
+        - {x: 67, y: -101}
+        - {x: 82, y: -126}
+        - {x: 102, y: -147}
+        - {x: 102, y: 136}
+        - {x: 48, y: 185}
+        - {x: -37, y: 185}
+        - {x: -102, y: -34}
+        - {x: -102, y: -111}
+        - {x: -100, y: -111}
+        - {x: -80, y: -88}
+        - {x: -70, y: -103}
+        - {x: -67, y: -105}
+        - {x: -61, y: -98}
+        - {x: -60, y: -92}
+        - {x: -58, y: -103}
+        - {x: -72, y: -124}
+        - {x: -73, y: -153}
+        - {x: -64, y: -152}
+        - {x: -32, y: -158}
+        - {x: -20, y: -145}
+        - {x: -22, y: -138}
+        - {x: -22, y: -134}
+        - {x: -21, y: -133}
+        - {x: -20, y: -129}
+        - {x: -20, y: -132}
+        - {x: -22, y: -136}
+        - {x: -20, y: -138}
+        - {x: -17, y: -139}
+        - {x: -21, y: -157}
+        - {x: -15, y: -160}
+        - {x: -17, y: -185}
+        - {x: 5, y: -185}
+        - {x: 35, y: -164}
+        - {x: 33, y: -148}
+      - - {x: 80, y: 45}
+        - {x: 82, y: 43}
+        - {x: 85, y: 44}
+        - {x: 85, y: 47}
+        - {x: 83, y: 49}
+        - {x: 80, y: 48}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

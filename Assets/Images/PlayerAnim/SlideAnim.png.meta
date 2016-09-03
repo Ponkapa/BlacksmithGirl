@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 3c56c29afb8e2644684cdf49889e7897
+timeCreated: 1461385913
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SlideAnim_0
+    21300002: SlideAnim_1
+    21300004: SlideAnim_2
+    21300006: SlideAnim_3
+    21300008: SlideAnim_7
+    21300010: SlideAnim_6
+    21300012: SlideAnim_5
+    21300014: SlideAnim_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SlideAnim_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 302
+        width: 200
+        height: 233
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: -48.5}
+        - {x: 67, y: -50.5}
+        - {x: 69, y: -50.5}
+        - {x: 69, y: 82.5}
+        - {x: 43, y: 116.5}
+        - {x: -34, y: 116.5}
+        - {x: -67, y: 72.5}
+        - {x: -41, y: 32.5}
+        - {x: -37, y: 35.5}
+        - {x: -35, y: 37.5}
+        - {x: -39, y: -12.5}
+        - {x: -57, y: 17.5}
+        - {x: -100, y: 32.5}
+        - {x: -130, y: 21.5}
+        - {x: -130, y: -90.5}
+        - {x: -123, y: -116.5}
+        - {x: 61, y: -116.5}
+        - {x: 69, y: -58.5}
+        - {x: 69, y: -52.5}
+        - {x: 64, y: -50.5}
+        - {x: 36, y: -43.5}
+        - {x: 40, y: -37.5}
+      - - {x: 67, y: -19.5}
+        - {x: 66, y: -22.5}
+        - {x: 69, y: -25.5}
+        - {x: 70, y: -25.5}
+        - {x: 70, y: -20.5}
+        - {x: 69, y: -19.5}
+    - name: SlideAnim_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 308
+        width: 217
+        height: 225
+      alignment: 9
+      pivot: {x: 0.65, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.049988, y: 108}
+        - {x: -133.04999, y: 44}
+        - {x: -141.04999, y: 2}
+        - {x: -141.04999, y: -50}
+        - {x: -118.04999, y: -60}
+        - {x: -81.04999, y: -48}
+        - {x: -75.04999, y: -37}
+        - {x: -48.049988, y: -43}
+        - {x: -60.049988, y: -112}
+        - {x: -52.049988, y: -117}
+        - {x: -32.049988, y: -117}
+        - {x: -19.049988, y: -112}
+        - {x: -8.049988, y: -86}
+        - {x: 22.950012, y: -117}
+        - {x: 53.950012, y: -117}
+        - {x: 75.95001, y: -35}
+        - {x: 75.95001, y: 108}
+      - - {x: 45.950012, y: -50}
+        - {x: 47.950012, y: -52}
+        - {x: 50.950012, y: -51}
+        - {x: 50.950012, y: -48}
+        - {x: 48.950012, y: -46}
+        - {x: 45.950012, y: -47}
+    - name: SlideAnim_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 299
+        width: 225
+        height: 210
+      alignment: 9
+      pivot: {x: 0.65, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.25, y: 94.5}
+        - {x: -27.25, y: 75.5}
+        - {x: -98.25, y: 76.5}
+        - {x: -146.25, y: 36.5}
+        - {x: -146.25, y: -97.5}
+        - {x: -129.25, y: -115.5}
+        - {x: 44.75, y: -115.5}
+        - {x: 78.75, y: -70.5}
+        - {x: 78.75, y: 94.5}
+      - - {x: 27.75, y: -67.5}
+        - {x: 30.75, y: -66.5}
+        - {x: 30.75, y: -63.5}
+        - {x: 27.75, y: -62.5}
+        - {x: 25.75, y: -64.5}
+    - name: SlideAnim_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 305
+        width: 233
+        height: 194
+      alignment: 9
+      pivot: {x: 0.65, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.549988, y: -14.399994}
+        - {x: 46.549988, y: -7.399994}
+        - {x: 43.549988, y: -39.399994}
+        - {x: 52.549988, y: -55.399994}
+        - {x: 75.54999, y: -58.399994}
+        - {x: 81.54999, y: -34.399994}
+        - {x: 81.54999, y: 73.600006}
+        - {x: 78.54999, y: 77.600006}
+        - {x: -127.45001, y: 77.600006}
+        - {x: -145.45001, y: 72.600006}
+        - {x: -151.45001, y: 47.600006}
+        - {x: -151.45001, y: -37.399994}
+        - {x: -115.45001, y: -116.399994}
+        - {x: 22.549988, y: -116.399994}
+        - {x: 36.549988, y: -89.399994}
+        - {x: 43.549988, y: -35.399994}
+        - {x: 43.549988, y: -24.399994}
+    - name: SlideAnim_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 211
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.5, y: -49.5}
+        - {x: 88.5, y: -48.5}
+        - {x: 95.5, y: -37.5}
+        - {x: 81.5, y: 8.5}
+        - {x: 66.5, y: 24.5}
+        - {x: 75.5, y: 24.5}
+        - {x: 81.5, y: 6.5}
+        - {x: 85.5, y: 4.5}
+        - {x: 88.5, y: 5.5}
+        - {x: 103.5, y: -3.5}
+        - {x: 105.5, y: -3.5}
+        - {x: 105.5, y: 87.5}
+        - {x: 97.5, y: 110.5}
+        - {x: -51.5, y: 110.5}
+        - {x: -79.5, y: 104.5}
+        - {x: -105.5, y: 32.5}
+        - {x: -105.5, y: -110.5}
+        - {x: 82.5, y: -110.5}
+        - {x: 82.5, y: -46.5}
+        - {x: 82.5, y: -47.5}
+    - name: SlideAnim_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 67
+        width: 219
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 102}
+        - {x: -109.5, y: 39}
+        - {x: -109.5, y: -102}
+        - {x: 71.5, y: -102}
+        - {x: 109.5, y: -31}
+        - {x: 109.5, y: 100}
+        - {x: 102.5, y: 102}
+    - name: SlideAnim_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 89
+        width: 234
+        height: 147
+      alignment: 9
+      pivot: {x: 0.65, y: 0.72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145.09998, y: 41.160004}
+        - {x: -152.09998, y: 4.1600037}
+        - {x: -152.09998, y: -43.839996}
+        - {x: -126.099976, y: -63.839996}
+        - {x: -114.099976, y: -60.839996}
+        - {x: -98.099976, y: -53.839996}
+        - {x: -83.099976, y: -37.839996}
+        - {x: -100.099976, y: -63.839996}
+        - {x: -130.09998, y: -64.84}
+        - {x: -142.09998, y: -69.84}
+        - {x: -137.09998, y: -95.84}
+        - {x: -104.099976, y: -105.84}
+        - {x: 26.900024, y: -105.84}
+        - {x: 40.900024, y: -104.84}
+        - {x: 81.900024, y: -50.839996}
+        - {x: 81.900024, y: 24.160004}
+        - {x: 50.900024, y: 41.160004}
+      - - {x: -25.099976, y: -105.84}
+        - {x: -25.099976, y: -103.84}
+        - {x: -28.099976, y: -102.84}
+        - {x: -30.099976, y: -105.84}
+    - name: SlideAnim_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 69
+        width: 226
+        height: 174
+      alignment: 9
+      pivot: {x: 0.65, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.900024, y: 60.899994}
+        - {x: -144.90002, y: 16.899994}
+        - {x: -146.90002, y: -10.100006}
+        - {x: -146.90002, y: -61.100006}
+        - {x: -122.900024, y: -73.100006}
+        - {x: -108.900024, y: -75.100006}
+        - {x: -82.900024, y: -53.100006}
+        - {x: -102.900024, y: -76.100006}
+        - {x: -123.900024, y: -73.100006}
+        - {x: -129.90002, y: -85.100006}
+        - {x: -110.900024, y: -112.100006}
+        - {x: -103.900024, y: -113.100006}
+        - {x: -6.9000244, y: -113.100006}
+        - {x: 75.099976, y: -87.100006}
+        - {x: 79.099976, y: -55.100006}
+        - {x: 79.099976, y: 60.899994}
+      - - {x: -18.900024, y: -78.100006}
+        - {x: -17.900024, y: -81.100006}
+        - {x: -14.900024, y: -81.100006}
+        - {x: -12.900024, y: -79.100006}
+        - {x: -13.900024, y: -76.100006}
+        - {x: -16.900024, y: -76.100006}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: c9b81bd30678f2043a5a4d93fa24854d
+timeCreated: 1462867759
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dress6_0
+    21300002: dress6_1
+    21300004: dress6_2
+    21300006: dress6_3
+    21300008: dress6_4
+    21300010: dress6_5
+    21300012: dress6_6
+    21300014: dress6_7
+    21300016: dress6_8
+    21300018: dress6_9
+    21300020: dress6_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dress6_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 113
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4711726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 77.2088}
+        - {x: -39.5, y: 75.2088}
+        - {x: -56.5, y: -36.7912}
+        - {x: -56.5, y: -68.7912}
+        - {x: 56.5, y: -68.7912}
+        - {x: 56.5, y: 73.2088}
+        - {x: 51.5, y: 77.2088}
+    - name: dress6_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 225
+        width: 121
+        height: 145
+      alignment: 9
+      pivot: {x: 0.47912988, y: 0.46670595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.974716, y: 77.32764}
+        - {x: -40.974716, y: 73.32764}
+        - {x: -57.974716, y: -25.672363}
+        - {x: -57.974716, y: -63.672363}
+        - {x: -55.974716, y: -67.67236}
+        - {x: 44.025284, y: -67.67236}
+        - {x: 63.025284, y: -37.672363}
+        - {x: 63.025284, y: 77.32764}
+    - name: dress6_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 220
+        width: 113
+        height: 144
+      alignment: 9
+      pivot: {x: 0.49592495, y: 0.4648251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.96048, y: 77.065186}
+        - {x: -22.03952, y: 77.065186}
+        - {x: -35.03952, y: 73.065186}
+        - {x: -56.03952, y: -38.934814}
+        - {x: -56.03952, y: -66.934814}
+        - {x: 40.96048, y: -66.934814}
+        - {x: 56.96048, y: -45.934814}
+        - {x: 56.96048, y: 42.065186}
+        - {x: 47.96048, y: 61.065186}
+    - name: dress6_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 219
+        width: 108
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5127908, y: 0.46824342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.38141, y: 77.104706}
+        - {x: -55.38141, y: -32.895294}
+        - {x: -55.38141, y: -67.895294}
+        - {x: 52.61859, y: -67.895294}
+        - {x: 52.61859, y: 77.104706}
+    - name: dress6_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 212
+        width: 113
+        height: 144
+      alignment: 9
+      pivot: {x: 0.48777515, y: 0.46162775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.118591, y: 77.525604}
+        - {x: -32.11859, y: 72.525604}
+        - {x: -55.11859, y: -40.474396}
+        - {x: -55.11859, y: -63.474396}
+        - {x: -48.11859, y: -66.474396}
+        - {x: 45.88141, y: -66.474396}
+        - {x: 57.88141, y: -24.474396}
+        - {x: 57.88141, y: 73.525604}
+        - {x: 48.88141, y: 77.525604}
+    - name: dress6_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 210
+        width: 118
+        height: 146
+      alignment: 9
+      pivot: {x: 0.49219579, y: 0.47476926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.9209, y: 76.683685}
+        - {x: -33.0791, y: 76.683685}
+        - {x: -48.0791, y: 71.683685}
+        - {x: -58.0791, y: -6.3163147}
+        - {x: -58.0791, y: -65.316315}
+        - {x: -46.0791, y: -69.316315}
+        - {x: 37.9209, y: -69.316315}
+        - {x: 59.9209, y: -39.316315}
+        - {x: 59.9209, y: 23.683685}
+        - {x: 46.9209, y: 62.683685}
+    - name: dress6_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 199
+        width: 114
+        height: 145
+      alignment: 9
+      pivot: {x: 0.49112368, y: 0.45463362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.988098, y: 79.078125}
+        - {x: -55.9881, y: -42.921875}
+        - {x: -55.9881, y: -62.921875}
+        - {x: -52.9881, y: -65.921875}
+        - {x: 58.0119, y: -65.921875}
+        - {x: 58.0119, y: 25.078125}
+        - {x: 41.0119, y: 79.078125}
+    - name: dress6_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 47
+        width: 114
+        height: 148
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.46581006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.000008, y: 79.06011}
+        - {x: -57.000008, y: -34.939888}
+        - {x: -57.000008, y: -63.939888}
+        - {x: -40.000008, y: -68.93989}
+        - {x: 39.999992, y: -68.93989}
+        - {x: 56.999992, y: -35.939888}
+        - {x: 56.999992, y: 31.060112}
+        - {x: 42.999992, y: 79.06011}
+    - name: dress6_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 117
+        height: 148
+      alignment: 9
+      pivot: {x: 0.46540064, y: 0.4760671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.548126, y: 77.54207}
+        - {x: -30.451874, y: 77.54207}
+        - {x: -42.451874, y: 74.54207}
+        - {x: -54.451874, y: -1.4579315}
+        - {x: -54.451874, y: -69.45793}
+        - {x: -50.451874, y: -70.45793}
+        - {x: 37.548126, y: -70.45793}
+        - {x: 49.548126, y: -64.45793}
+        - {x: 62.548126, y: -20.457932}
+        - {x: 62.548126, y: 24.542068}
+    - name: dress6_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 39
+        width: 113
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 76.52403}
+        - {x: -31.5, y: 67.52403}
+        - {x: -56.5, y: -15.475967}
+        - {x: -56.5, y: -68.47597}
+        - {x: -44.5, y: -72.47597}
+        - {x: 56.5, y: -72.47597}
+        - {x: 56.5, y: 76.52403}
+    - name: dress6_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 39
+        width: 111
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5091176, y: 0.4830201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.487946, y: 77.03001}
+        - {x: -24.512054, y: 77.03001}
+        - {x: -31.512054, y: 71.03001}
+        - {x: -56.512054, y: -37.969994}
+        - {x: -56.512054, y: -63.969994}
+        - {x: -42.512054, y: -71.96999}
+        - {x: 42.487946, y: -71.96999}
+        - {x: 54.487946, y: -58.969994}
+        - {x: 54.487946, y: 49.030006}
+        - {x: 46.487946, y: 62.030006}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

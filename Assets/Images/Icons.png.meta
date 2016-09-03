@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 53cf70bc18bfe7d4d93b3625013707a5
+timeCreated: 1463606416
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icons_0
+    21300002: Icons_1
+    21300004: Icons_2
+    21300006: Icons_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Icons_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 251
+        width: 354
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 172, y: 50}
+        - {x: 84, y: 41}
+        - {x: -62, y: 74}
+        - {x: -175, y: 74}
+        - {x: -177, y: 72}
+        - {x: -177, y: 43}
+        - {x: -160, y: 7}
+        - {x: -167, y: -61}
+        - {x: -161, y: -63}
+        - {x: -104, y: -39}
+        - {x: 44, y: -72}
+        - {x: 84, y: -74}
+        - {x: 176, y: -74}
+        - {x: 163, y: -7}
+        - {x: 177, y: 37}
+        - {x: 177, y: 51}
+    - name: Icons_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 251
+        width: 354
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 41}
+        - {x: -71, y: 74}
+        - {x: -170, y: 74}
+        - {x: -177, y: 72}
+        - {x: -177, y: 60}
+        - {x: -162, y: 14}
+        - {x: -166, y: -61}
+        - {x: -160, y: -63}
+        - {x: -65, y: -39}
+        - {x: 29, y: -66}
+        - {x: 96, y: -74}
+        - {x: 174, y: -74}
+        - {x: 163, y: -10}
+        - {x: 177, y: 38}
+        - {x: 177, y: 52}
+    - name: Icons_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 42
+        width: 354
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: 40.5}
+        - {x: -21, y: 67.5}
+        - {x: -76, y: 74.5}
+        - {x: -177, y: 74.5}
+        - {x: -177, y: 55.5}
+        - {x: -164, y: 5.5}
+        - {x: -166, y: -49.5}
+        - {x: -166, y: -64.5}
+        - {x: -102, y: -38.5}
+        - {x: -42, y: -43.5}
+        - {x: 34, y: -64.5}
+        - {x: 75, y: -71.5}
+        - {x: 133, y: -74.5}
+        - {x: 174, y: -74.5}
+        - {x: 163, y: -37.5}
+        - {x: 177, y: 31.5}
+        - {x: 177, y: 53.5}
+    - name: Icons_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 43
+        width: 353
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 74}
+        - {x: -156.5, y: 74}
+        - {x: -176.5, y: 71}
+        - {x: -176.5, y: 61}
+        - {x: -175.5, y: 58}
+        - {x: -168.5, y: 39}
+        - {x: -166.5, y: -61}
+        - {x: -164.5, y: -65}
+        - {x: -68.5, y: -39}
+        - {x: 33.5, y: -70}
+        - {x: 93.5, y: -74}
+        - {x: 176.5, y: -74}
+        - {x: 176.5, y: 51}
+        - {x: 60.5, y: 43}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

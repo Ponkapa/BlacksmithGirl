@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 3d9169876fe49f04d85068ea1336498d
+timeCreated: 1463486974
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LightAndDarkStagePlat_0
+    21300002: LightAndDarkStagePlat_1
+    21300004: LightAndDarkStagePlat_2
+    21300006: LightAndDarkStagePlat_3
+    21300008: LightAndDarkStagePlat_4
+    21300010: LightAndDarkStagePlat_5
+    21300012: LightAndDarkStagePlat_6
+    21300014: LightAndDarkStagePlat_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LightAndDarkStagePlat_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 289
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 66}
+        - {x: -66, y: -66}
+        - {x: 66, y: -66}
+        - {x: 66, y: 66}
+    - name: LightAndDarkStagePlat_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 289
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 66}
+        - {x: -66, y: -66}
+        - {x: 66, y: -66}
+        - {x: 66, y: 66}
+    - name: LightAndDarkStagePlat_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 288
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 67}
+        - {x: -66.5, y: -67}
+        - {x: 66.5, y: -67}
+        - {x: 66.5, y: 67}
+    - name: LightAndDarkStagePlat_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 289
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 66}
+        - {x: -65.5, y: -66}
+        - {x: 65.5, y: -66}
+        - {x: 65.5, y: 66}
+    - name: LightAndDarkStagePlat_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 138
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 66.5}
+        - {x: -71.5, y: 17.5}
+        - {x: -62.5, y: 17.5}
+        - {x: -62.5, y: -64.5}
+        - {x: -63.5, y: -66.5}
+        - {x: 71.5, y: -66.5}
+        - {x: 71.5, y: 66.5}
+    - name: LightAndDarkStagePlat_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 138
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 65.5}
+        - {x: -71.5, y: -65.5}
+        - {x: 62.5, y: -65.5}
+        - {x: 62.5, y: 17.5}
+        - {x: 71.5, y: 17.5}
+        - {x: 71.5, y: 65.5}
+    - name: LightAndDarkStagePlat_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 139
+        width: 143
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 66}
+        - {x: -71.5, y: 17}
+        - {x: -62.5, y: 17}
+        - {x: -62.5, y: -66}
+        - {x: 71.5, y: -66}
+        - {x: 71.5, y: 66}
+    - name: LightAndDarkStagePlat_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 137
+        width: 144
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 17}
+        - {x: 72, y: 66}
+        - {x: -72, y: 66}
+        - {x: -72, y: -66}
+        - {x: 61, y: -66}
+        - {x: 62, y: -65}
+        - {x: 62, y: 18}
+        - {x: 70, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b5733a840016fd049a657238e9982645
+timeCreated: 1463629567
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BlackScreen: {fileID: 170296, guid: ecf4541a9c36ea84497a472d87a815f4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

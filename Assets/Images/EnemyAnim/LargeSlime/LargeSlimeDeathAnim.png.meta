@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: e5b04f047870d65498cbaef4777d59d9
+timeCreated: 1463169541
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LargeSlimeDeathAnim_0
+    21300002: LargeSlimeDeathAnim_1
+    21300004: LargeSlimeDeathAnim_2
+    21300006: LargeSlimeDeathAnim_3
+    21300008: LargeSlimeDeathAnim_4
+    21300010: LargeSlimeDeathAnim_5
+    21300012: LargeSlimeDeathAnim_6
+    21300014: LargeSlimeDeathAnim_7
+    21300016: LargeSlimeDeathAnim_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LargeSlimeDeathAnim_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 356
+        width: 127
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 85}
+        - {x: -63.5, y: 32}
+        - {x: -63.5, y: -72}
+        - {x: -31.5, y: -85}
+        - {x: 42.5, y: -85}
+        - {x: 63.5, y: 19}
+        - {x: 63.5, y: 85}
+    - name: LargeSlimeDeathAnim_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 348
+        width: 157
+        height: 156
+      alignment: 9
+      pivot: {x: 0.43451908, y: 0.63912416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.780502, y: 56.29663}
+        - {x: -68.2195, y: 20.29663}
+        - {x: -68.2195, y: -97.70337}
+        - {x: -57.219498, y: -99.70337}
+        - {x: 14.780502, y: -99.70337}
+        - {x: 88.7805, y: -2.7033691}
+        - {x: 88.7805, y: 38.29663}
+        - {x: 72.7805, y: 56.29663}
+    - name: LargeSlimeDeathAnim_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 359
+        width: 169
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4256505, y: 0.69662225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.934937, y: 37.012085}
+        - {x: -71.93494, y: 12.012085}
+        - {x: -71.93494, y: -67.987915}
+        - {x: -63.934937, y: -84.987915}
+        - {x: -21.934937, y: -84.987915}
+        - {x: 97.06506, y: -44.987915}
+        - {x: 97.06506, y: 26.012085}
+        - {x: 96.06506, y: 29.012085}
+        - {x: 87.06506, y: 37.012085}
+    - name: LargeSlimeDeathAnim_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 308
+        width: 199
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5003852, y: 0.99424005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.42334, y: -146.15329}
+        - {x: 28.42334, y: -143.15329}
+        - {x: 24.42334, y: -143.15329}
+        - {x: 23.42334, y: -146.15329}
+      - - {x: 99.42334, y: -68.15329}
+        - {x: 99.42334, y: -24.15329}
+        - {x: 73.42334, y: 0.8467102}
+        - {x: -64.57666, y: 0.8467102}
+        - {x: -99.57666, y: -47.15329}
+        - {x: -99.57666, y: -110.15329}
+        - {x: -82.57666, y: -124.15329}
+        - {x: 54.42334, y: -124.15329}
+        - {x: 99.42334, y: -105.15329}
+        - {x: 99.42334, y: -83.15329}
+        - {x: 89.42334, y: -79.15329}
+    - name: LargeSlimeDeathAnim_4
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 340
+        width: 200
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7284566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 30.585205}
+        - {x: -99, y: -4.414795}
+        - {x: -100, y: -11.414795}
+        - {x: -100, y: -73.414795}
+        - {x: -56, y: -87.414795}
+        - {x: 91, y: -87.414795}
+        - {x: 100, y: -67.414795}
+        - {x: 100, y: 21.585205}
+        - {x: 61, y: 30.585205}
+      - - {x: 29, y: 32.585205}
+        - {x: 30, y: 29.585205}
+        - {x: 33, y: 29.585205}
+        - {x: 35, y: 31.585205}
+        - {x: 35, y: 32.585205}
+    - name: LargeSlimeDeathAnim_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 212
+        width: 199
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50038517, y: 1.0235666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.423355, y: -2.6394653}
+        - {x: -62.576645, y: -2.6394653}
+        - {x: -85.576645, y: -32.639465}
+        - {x: -99.576645, y: -69.639465}
+        - {x: -99.576645, y: -95.639465}
+        - {x: -81.576645, y: -114.639465}
+        - {x: 81.423355, y: -114.639465}
+        - {x: 99.423355, y: -98.639465}
+        - {x: 99.423355, y: -22.639465}
+        - {x: 98.423355, y: -11.639465}
+    - name: LargeSlimeDeathAnim_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 208
+        width: 200
+        height: 88
+      alignment: 9
+      pivot: {x: 0.48781097, y: 1.322123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.437805, y: -28.346832}
+        - {x: -83.562195, y: -28.346832}
+        - {x: -97.562195, y: -33.346832}
+        - {x: -97.562195, y: -116.34683}
+        - {x: 102.437805, y: -116.34683}
+        - {x: 102.437805, y: -65.34683}
+        - {x: 88.437805, y: -32.346832}
+    - name: LargeSlimeDeathAnim_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 196
+        width: 200
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4710602, y: 1.8730669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.212036, y: -58.495483}
+        - {x: -92.212036, y: -74.49548}
+        - {x: -94.212036, y: -78.49548}
+        - {x: -94.212036, y: -96.49548}
+        - {x: -74.212036, y: -120.49548}
+        - {x: -26.212036, y: -125.49548}
+        - {x: 32.787964, y: -125.49548}
+        - {x: 80.787964, y: -116.49548}
+        - {x: 105.787964, y: -104.49548}
+        - {x: 105.787964, y: -58.495483}
+    - name: LargeSlimeDeathAnim_8
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 198
+        width: 121
+        height: 41
+      alignment: 9
+      pivot: {x: 0.47801676, y: 2.4170122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.840027, y: -58.097504}
+        - {x: -57.840027, y: -67.0975}
+        - {x: -57.840027, y: -89.0975}
+        - {x: -53.840027, y: -99.0975}
+        - {x: 49.159973, y: -99.0975}
+        - {x: 63.159973, y: -96.0975}
+        - {x: 63.159973, y: -67.0975}
+        - {x: 30.159973, y: -58.097504}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

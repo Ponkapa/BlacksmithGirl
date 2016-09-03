@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 350b9396a7439a7439a329e43ba81f40
+timeCreated: 1463486939
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FinalBossStage_0
+    21300002: FinalBossStage_1
+    21300004: FinalBossStage_2
+    21300006: FinalBossStage_3
+    21300008: FinalBossStage_4
+    21300010: FinalBossStage_5
+    21300012: FinalBossStage_6
+    21300014: FinalBossStage_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FinalBossStage_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 241
+        width: 196
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: -171}
+        - {x: 98, y: -161}
+        - {x: 98, y: -130}
+        - {x: 97, y: -88}
+        - {x: 98, y: -80}
+        - {x: 98, y: 31}
+        - {x: 92, y: 99}
+        - {x: 66, y: 156}
+        - {x: 27, y: 170}
+        - {x: 23, y: 171}
+        - {x: -30, y: 171}
+        - {x: -85, y: 139}
+        - {x: -75, y: 29}
+        - {x: -98, y: -1}
+        - {x: -98, y: -143}
+        - {x: -86, y: -171}
+        - {x: -59, y: -171}
+        - {x: -39, y: -149}
+        - {x: -36, y: -144}
+        - {x: 18, y: -171}
+    - name: FinalBossStage_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 305
+        width: 54
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 131.5}
+        - {x: -27, y: -131.5}
+        - {x: 27, y: -131.5}
+        - {x: 27, y: 131.5}
+    - name: FinalBossStage_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 305
+        width: 55
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 131.5}
+        - {x: -27.5, y: 120.5}
+        - {x: -19.5, y: 113.5}
+        - {x: -27.5, y: -79.5}
+        - {x: -27.5, y: -131.5}
+        - {x: 27.5, y: -131.5}
+        - {x: 27.5, y: 131.5}
+    - name: FinalBossStage_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 257
+        width: 178
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: -151.5}
+        - {x: 84, y: 122.5}
+        - {x: 89, y: 124.5}
+        - {x: 89, y: 152.5}
+        - {x: -89, y: 152.5}
+        - {x: -89, y: 125.5}
+        - {x: -81, y: 112.5}
+        - {x: -62, y: 109.5}
+        - {x: -57, y: -152.5}
+        - {x: 55, y: -152.5}
+    - name: FinalBossStage_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 57
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 66}
+        - {x: -65.5, y: -66}
+        - {x: 65.5, y: -66}
+        - {x: 65.5, y: 66}
+    - name: FinalBossStage_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 57
+        width: 143
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 66}
+        - {x: -71.5, y: 15}
+        - {x: -62.5, y: 15}
+        - {x: -62.5, y: -66}
+        - {x: 71.5, y: -66}
+        - {x: 71.5, y: 66}
+    - name: FinalBossStage_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 57
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 66}
+        - {x: -66, y: -66}
+        - {x: 66, y: -66}
+        - {x: 66, y: 66}
+    - name: FinalBossStage_7
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 57
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 65.5}
+        - {x: -71.5, y: -65.5}
+        - {x: 61.5, y: -65.5}
+        - {x: 61.5, y: 15.5}
+        - {x: 71.5, y: 15.5}
+        - {x: 71.5, y: 65.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

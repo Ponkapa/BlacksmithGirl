@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 41b8bb5ccc6ae2645be7495269cdd957
+timeCreated: 1463200573
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KnightParried_0
+    21300002: KnightParried_1
+    21300004: KnightParried_2
+    21300006: KnightParried_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KnightParried_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 200
+        width: 190
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 5}
+        - {x: 7, y: 89}
+        - {x: -19, y: 115}
+        - {x: -60, y: 115}
+        - {x: -76, y: 110}
+        - {x: -75, y: 70}
+        - {x: -79, y: 67}
+        - {x: -76, y: 70}
+        - {x: -76, y: 77}
+        - {x: -80, y: 82}
+        - {x: -88, y: 82}
+        - {x: -95, y: 79}
+        - {x: -95, y: 56}
+        - {x: -77, y: 43}
+        - {x: -66, y: -59}
+        - {x: -42, y: -115}
+        - {x: 34, y: -115}
+        - {x: 95, y: -28}
+        - {x: 95, y: 4}
+        - {x: 93, y: 6}
+    - name: KnightParried_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 216
+        width: 208
+        height: 212
+      alignment: 9
+      pivot: {x: 0.567098, y: 0.5752362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.04361, y: -121.95007}
+        - {x: 30.04361, y: -121.95007}
+        - {x: 90.04361, y: -103.95007}
+        - {x: 90.04361, y: 52.049927}
+        - {x: -3.9563904, y: 90.04993}
+        - {x: -116.95639, y: 90.04993}
+        - {x: -117.95639, y: 83.04993}
+        - {x: -117.95639, y: 10.049927}
+        - {x: -105.95639, y: 9.049927}
+        - {x: -55.95639, y: -88.95007}
+        - {x: -18.95639, y: -121.95007}
+        - {x: 15.04361, y: -121.95007}
+        - {x: 14.04361, y: -111.95007}
+        - {x: 3.0436096, y: -103.95007}
+        - {x: 8.04361, y: -91.95007}
+    - name: KnightParried_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 212
+        width: 214
+        height: 198
+      alignment: 9
+      pivot: {x: 0.54658324, y: 0.5805561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.03119, y: 59.049896}
+        - {x: 30.031189, y: 77.0499}
+        - {x: -15.968811, y: 83.0499}
+        - {x: -106.96881, y: 83.0499}
+        - {x: -112.96881, y: 61.049896}
+        - {x: -110.96881, y: 46.049896}
+        - {x: -98.96881, y: 27.049896}
+        - {x: -99.96881, y: 23.049896}
+        - {x: -101.96881, y: 21.049896}
+        - {x: -99.96881, y: 23.049896}
+        - {x: -99.96881, y: 26.049896}
+        - {x: -100.96881, y: 29.049896}
+        - {x: -105.96881, y: 36.049896}
+        - {x: -116.96881, y: 30.049896}
+        - {x: -116.96881, y: 9.049896}
+        - {x: -95.96881, y: -2.9501038}
+        - {x: -70.96881, y: 12.049896}
+        - {x: -71.96881, y: 33.049896}
+        - {x: -72.96881, y: 37.049896}
+        - {x: -62.96881, y: 5.0498962}
+        - {x: -62.96881, y: -87.9501}
+        - {x: -16.968811, y: -114.9501}
+        - {x: 63.03119, y: -114.9501}
+        - {x: 97.03119, y: -77.9501}
+        - {x: 97.03119, y: 18.049896}
+    - name: KnightParried_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 223
+        width: 228
+        height: 183
+      alignment: 9
+      pivot: {x: 0.55246747, y: 0.61984336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.962585, y: 69.568665}
+        - {x: -125.962585, y: 52.568665}
+        - {x: -125.962585, y: 16.568665}
+        - {x: -121.962585, y: 7.5686646}
+        - {x: -110.962585, y: -2.4313354}
+        - {x: -108.962585, y: -3.4313354}
+        - {x: -109.962585, y: -6.4313354}
+        - {x: -111.962585, y: -0.43133545}
+        - {x: -121.962585, y: 0.56866455}
+        - {x: -125.962585, y: -2.4313354}
+        - {x: -125.962585, y: -65.431335}
+        - {x: -75.962585, y: -112.431335}
+        - {x: -60.962585, y: -113.431335}
+        - {x: 60.037415, y: -113.431335}
+        - {x: 102.037415, y: -87.431335}
+        - {x: 102.037415, y: 12.568665}
+        - {x: 59.037415, y: 69.568665}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

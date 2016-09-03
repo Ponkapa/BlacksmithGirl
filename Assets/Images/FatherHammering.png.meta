@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 5e323d60a1626a14c9911b0c1c6f8d15
+timeCreated: 1463489046
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FatherHammering_0
+    21300002: FatherHammering_1
+    21300004: FatherHammering_2
+    21300006: FatherHammering_3
+    21300008: FatherHammering_4
+    21300010: FatherHammering_5
+    21300012: FatherHammering_6
+    21300014: FatherHammering_7
+    21300016: FatherHammering_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FatherHammering_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 617
+        width: 218
+        height: 256
+      alignment: 9
+      pivot: {x: 0.65733504, y: 0.53828025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.70096, y: 112.20026}
+        - {x: 20.700958, y: 118.20026}
+        - {x: -32.29904, y: 118.20026}
+        - {x: -63.29904, y: 103.20026}
+        - {x: -143.29904, y: 36.200256}
+        - {x: -143.29904, y: -90.79974}
+        - {x: -117.29904, y: -133.79974}
+        - {x: -106.29904, y: -137.79974}
+        - {x: 64.70096, y: -137.79974}
+        - {x: 56.70096, y: -115.79974}
+        - {x: 73.70096, y: -95.79974}
+        - {x: 73.70096, y: 5.2002563}
+      - - {x: 71.70096, y: -28.799744}
+        - {x: 73.70096, y: -30.799744}
+        - {x: 74.70096, y: -30.799744}
+        - {x: 74.70096, y: -25.799744}
+        - {x: 72.70096, y: -25.799744}
+    - name: FatherHammering_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 611
+        width: 196
+        height: 262
+      alignment: 9
+      pivot: {x: 0.7125218, y: 0.6059906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.65427, y: -156.76953}
+        - {x: -73.65427, y: -158.76953}
+        - {x: -67.65427, y: -158.76953}
+        - {x: -67.65427, y: -156.76953}
+        - {x: -69.65427, y: -154.76953}
+        - {x: -71.65427, y: -154.76953}
+      - - {x: -139.65427, y: -21.769531}
+        - {x: -139.65427, y: -129.76953}
+        - {x: -127.65427, y: -137.76953}
+        - {x: -94.65427, y: -154.76953}
+        - {x: 56.345734, y: -154.76953}
+        - {x: 56.345734, y: 45.23047}
+        - {x: 21.345734, y: 103.23047}
+        - {x: -54.654266, y: 103.23047}
+        - {x: -110.65427, y: 45.23047}
+    - name: FatherHammering_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 617
+        width: 202
+        height: 256
+      alignment: 9
+      pivot: {x: 0.67184085, y: 0.58135605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.711853, y: 107.17285}
+        - {x: -63.711853, y: 94.17285}
+        - {x: -135.71185, y: 0.17285156}
+        - {x: -135.71185, y: -88.82715}
+        - {x: -132.71185, y: -97.82715}
+        - {x: -66.71185, y: -148.82715}
+        - {x: 62.288147, y: -148.82715}
+        - {x: 62.288147, y: 58.17285}
+        - {x: 31.288147, y: 107.17285}
+      - - {x: 63.288147, y: -88.82715}
+        - {x: 65.28815, y: -90.82715}
+        - {x: 66.28815, y: -90.82715}
+        - {x: 66.28815, y: -84.82715}
+        - {x: 63.288147, y: -85.82715}
+    - name: FatherHammering_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 617
+        width: 181
+        height: 256
+      alignment: 9
+      pivot: {x: 0.70136714, y: 0.60169506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.0525513, y: 101.966064}
+        - {x: -39.94745, y: 101.966064}
+        - {x: -58.94745, y: 78.966064}
+        - {x: -53.94745, y: 49.966064}
+        - {x: -75.94745, y: 64.966064}
+        - {x: -124.94745, y: 57.966064}
+        - {x: -126.94745, y: 53.966064}
+        - {x: -126.94745, y: -18.033936}
+        - {x: -50.94745, y: -154.03394}
+        - {x: 54.05255, y: -154.03394}
+        - {x: 54.05255, y: -12.033936}
+        - {x: 33.05255, y: 88.966064}
+    - name: FatherHammering_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 338
+        width: 146
+        height: 252
+      alignment: 9
+      pivot: {x: 0.59510106, y: 0.5550983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.884766, y: 112.115234}
+        - {x: -86.884766, y: 92.115234}
+        - {x: -86.884766, y: -9.884766}
+        - {x: -53.884766, y: -133.88477}
+        - {x: -46.884766, y: -137.88477}
+        - {x: -34.884766, y: -137.88477}
+        - {x: -24.884766, y: -133.88477}
+        - {x: -12.884766, y: -129.88477}
+        - {x: -8.884766, y: -122.884766}
+        - {x: 17.115234, y: -139.88477}
+        - {x: 59.115234, y: -139.88477}
+        - {x: 59.115234, y: 110.115234}
+        - {x: 58.115234, y: 112.115234}
+      - - {x: -43.884766, y: -70.884766}
+        - {x: -41.884766, y: -72.884766}
+        - {x: -38.884766, y: -71.884766}
+        - {x: -38.884766, y: -68.884766}
+        - {x: -40.884766, y: -66.884766}
+        - {x: -43.884766, y: -67.884766}
+    - name: FatherHammering_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 338
+        width: 162
+        height: 255
+      alignment: 9
+      pivot: {x: 0.6392762, y: 0.58848125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.562744, y: 104.93729}
+        - {x: -95.562744, y: 78.93729}
+        - {x: -103.562744, y: 28.937286}
+        - {x: -103.562744, y: -49.062714}
+        - {x: -56.562744, y: -150.06271}
+        - {x: 58.437256, y: -150.06271}
+        - {x: 58.437256, y: 54.937286}
+        - {x: 46.437256, y: 104.93729}
+    - name: FatherHammering_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 338
+        width: 159
+        height: 256
+      alignment: 9
+      pivot: {x: 0.65281975, y: 0.56101704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.79834, y: 28.379639}
+        - {x: -85.79834, y: 21.379639}
+        - {x: -72.79834, y: 21.379639}
+        - {x: -86.79834, y: -11.620361}
+        - {x: -70.79834, y: -43.62036}
+        - {x: -66.79834, y: -50.62036}
+        - {x: -55.79834, y: -45.62036}
+        - {x: -52.79834, y: -27.620361}
+        - {x: -52.79834, y: -25.620361}
+        - {x: -53.79834, y: -23.620361}
+        - {x: -48.79834, y: -28.620361}
+        - {x: -50.79834, y: -143.62036}
+        - {x: 55.20166, y: -143.62036}
+        - {x: 55.20166, y: -23.620361}
+        - {x: 43.20166, y: 91.37964}
+        - {x: 35.20166, y: 112.37964}
+        - {x: -53.79834, y: 112.37964}
+        - {x: -103.79834, y: 96.37964}
+      - - {x: -42.79834, y: 24.379639}
+        - {x: -42.79834, y: 18.379639}
+        - {x: -39.79834, y: 14.379639}
+        - {x: -37.79834, y: 14.379639}
+        - {x: -35.79834, y: 16.379639}
+        - {x: -36.79834, y: 21.379639}
+        - {x: -39.79834, y: 25.379639}
+    - name: FatherHammering_7
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 338
+        width: 196
+        height: 256
+      alignment: 9
+      pivot: {x: 0.7125216, y: 0.5677967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.654236, y: 110.64404}
+        - {x: -60.654236, y: 97.64404}
+        - {x: -139.65424, y: 20.644043}
+        - {x: -139.65424, y: -91.35596}
+        - {x: -53.654236, y: -145.35596}
+        - {x: 56.345764, y: -145.35596}
+        - {x: 56.345764, y: 92.64404}
+        - {x: 20.345764, y: 110.64404}
+    - name: FatherHammering_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 183
+        height: 256
+      alignment: 9
+      pivot: {x: 0.6517459, y: 0.58135587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.7305, y: 107.1729}
+        - {x: -51.2695, y: 107.1729}
+        - {x: -119.2695, y: -2.8271027}
+        - {x: -119.2695, y: -72.8271}
+        - {x: -88.2695, y: -91.8271}
+        - {x: -41.2695, y: -145.8271}
+        - {x: -36.2695, y: -148.8271}
+        - {x: 62.7305, y: -148.8271}
+        - {x: 63.7305, y: -143.8271}
+        - {x: 63.7305, y: -46.827103}
+        - {x: 45.7305, y: 80.1729}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

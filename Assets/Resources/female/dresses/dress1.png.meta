@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 5e73b4cff184338468cc4a2996fd7a24
+timeCreated: 1462866515
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dress1_0
+    21300002: dress1_1
+    21300004: dress1_2
+    21300006: dress1_3
+    21300008: dress1_4
+    21300010: dress1_5
+    21300012: dress1_6
+    21300014: dress1_7
+    21300016: dress1_8
+    21300018: dress1_9
+    21300020: dress1_10
+    21300022: dress1_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dress1_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 221
+        width: 109
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 73.5}
+        - {x: -54.5, y: -26.5}
+        - {x: -54.5, y: -65.5}
+        - {x: -50.5, y: -73.5}
+        - {x: 42.5, y: -73.5}
+        - {x: 54.5, y: -57.5}
+        - {x: 54.5, y: 50.5}
+        - {x: 43.5, y: 73.5}
+    - name: dress1_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 222
+        width: 113
+        height: 146
+      alignment: 9
+      pivot: {x: 0.4726634, y: 0.49471062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.589035, y: 73.77225}
+        - {x: -31.410965, y: 73.77225}
+        - {x: -53.410965, y: -35.227753}
+        - {x: -53.410965, y: -67.22775}
+        - {x: -51.410965, y: -72.22775}
+        - {x: 48.589035, y: -72.22775}
+        - {x: 59.589035, y: -34.227753}
+        - {x: 59.589035, y: 48.772247}
+        - {x: 54.589035, y: 71.77225}
+    - name: dress1_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 224
+        width: 115
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4664235, y: 0.4839113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.361298, y: 74.31677}
+        - {x: -25.638702, y: 74.31677}
+        - {x: -35.638702, y: 46.316772}
+        - {x: -46.638702, y: -6.6832275}
+        - {x: -53.638702, y: -41.683228}
+        - {x: -53.638702, y: -69.68323}
+        - {x: 39.361298, y: -69.68323}
+        - {x: 61.361298, y: -62.683228}
+        - {x: 61.361298, y: 33.316772}
+        - {x: 48.361298, y: 64.31677}
+    - name: dress1_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 222
+        width: 113
+        height: 146
+      alignment: 9
+      pivot: {x: 0.47949758, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.183228, y: 73}
+        - {x: -54.183228, y: -41}
+        - {x: -54.183228, y: -66}
+        - {x: -46.183228, y: -73}
+        - {x: 51.816772, y: -73}
+        - {x: 58.816772, y: -56}
+        - {x: 58.816772, y: 50}
+        - {x: 47.816772, y: 73}
+    - name: dress1_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 223
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 72.5}
+        - {x: -55, y: -6.5}
+        - {x: -55, y: -72.5}
+        - {x: 55, y: -72.5}
+        - {x: 55, y: 72.5}
+    - name: dress1_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 221
+        width: 112
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 73.5}
+        - {x: -56, y: -20.5}
+        - {x: -56, y: -73.5}
+        - {x: 42, y: -73.5}
+        - {x: 56, y: -49.5}
+        - {x: 56, y: 52.5}
+        - {x: 44, y: 73.5}
+    - name: dress1_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 222
+        width: 115
+        height: 146
+      alignment: 9
+      pivot: {x: 0.47985417, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.183228, y: 73}
+        - {x: -55.183228, y: -24}
+        - {x: -55.183228, y: -73}
+        - {x: 59.816772, y: -73}
+        - {x: 59.816772, y: 22}
+        - {x: 40.816772, y: 73}
+    - name: dress1_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31
+        width: 109
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 72.5}
+        - {x: -54.5, y: -44.5}
+        - {x: -54.5, y: -68.5}
+        - {x: -38.5, y: -72.5}
+        - {x: 54.5, y: -72.5}
+        - {x: 54.5, y: 64.5}
+        - {x: 44.5, y: 72.5}
+    - name: dress1_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 110
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 73.5}
+        - {x: -35, y: 52.5}
+        - {x: -55, y: -47.5}
+        - {x: -55, y: -73.5}
+        - {x: 41, y: -73.5}
+        - {x: 55, y: -53.5}
+        - {x: 55, y: 58.5}
+        - {x: 47, y: 73.5}
+    - name: dress1_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 31
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 72.5}
+        - {x: -55, y: -10.5}
+        - {x: -55, y: -72.5}
+        - {x: 45, y: -72.5}
+        - {x: 55, y: -59.5}
+        - {x: 55, y: 70.5}
+        - {x: 54, y: 72.5}
+    - name: dress1_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 31
+        width: 117
+        height: 145
+      alignment: 9
+      pivot: {x: 0.47194418, y: 0.48868087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.217468, y: 74.14127}
+        - {x: -41.21747, y: 34.141273}
+        - {x: -55.21747, y: -37.858727}
+        - {x: -55.21747, y: -63.858727}
+        - {x: -42.21747, y: -67.85873}
+        - {x: -29.217468, y: -70.85873}
+        - {x: 61.78253, y: -70.85873}
+        - {x: 61.78253, y: 74.14127}
+    - name: dress1_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 31
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 72.5}
+        - {x: -55, y: -50.5}
+        - {x: -55, y: -64.5}
+        - {x: -50, y: -72.5}
+        - {x: 53, y: -72.5}
+        - {x: 55, y: -67.5}
+        - {x: 55, y: 44.5}
+        - {x: 45, y: 72.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

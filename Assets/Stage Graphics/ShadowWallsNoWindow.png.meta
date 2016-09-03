@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 7f9a4517d359a0a48b0688265f4f1ead
+timeCreated: 1463539660
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ShadowWallsNoWindow_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ShadowWallsNoWindow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 703
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222.5, y: -264}
+        - {x: -219.5, y: -262}
+        - {x: -217.5, y: -262}
+        - {x: -215.5, y: -260}
+        - {x: -212.5, y: -260}
+        - {x: -206.5, y: -255}
+        - {x: -205.5, y: -255}
+        - {x: -198.5, y: -249}
+        - {x: -197.5, y: -245}
+        - {x: -194.5, y: -241}
+        - {x: -194.5, y: -239}
+        - {x: -192.5, y: -237}
+        - {x: -192.5, y: -233}
+        - {x: -189.5, y: -228}
+        - {x: 350.5, y: -228}
+        - {x: 351.5, y: -227}
+        - {x: 351.5, y: 233}
+        - {x: 349.5, y: 232}
+        - {x: -192.5, y: 232}
+        - {x: -192.5, y: 236}
+        - {x: -194.5, y: 238}
+        - {x: -195.5, y: 243}
+        - {x: -198.5, y: 246}
+        - {x: -198.5, y: 247}
+        - {x: -208.5, y: 257}
+        - {x: -209.5, y: 257}
+        - {x: -212.5, y: 260}
+        - {x: -217.5, y: 261}
+        - {x: -219.5, y: 263}
+        - {x: -223.5, y: 263}
+        - {x: -225.5, y: 265}
+        - {x: -317.5, y: 265}
+        - {x: -320.5, y: 263}
+        - {x: -323.5, y: 263}
+        - {x: -326.5, y: 261}
+        - {x: -328.5, y: 261}
+        - {x: -331.5, y: 259}
+        - {x: -335.5, y: 257}
+        - {x: -343.5, y: 248}
+        - {x: -343.5, y: 247}
+        - {x: -345.5, y: 245}
+        - {x: -345.5, y: 243}
+        - {x: -347.5, y: 241}
+        - {x: -348.5, y: 235}
+        - {x: -349.5, y: 234}
+        - {x: -349.5, y: 232}
+        - {x: -351.5, y: 228}
+        - {x: -351.5, y: 211}
+        - {x: -348.5, y: 205}
+        - {x: -347.5, y: 197}
+        - {x: -343.5, y: 189}
+        - {x: -343.5, y: 185}
+        - {x: -342.5, y: 184}
+        - {x: -342.5, y: 182}
+        - {x: -339.5, y: 176}
+        - {x: -339.5, y: -174}
+        - {x: -340.5, y: -175}
+        - {x: -341.5, y: -180}
+        - {x: -343.5, y: -182}
+        - {x: -343.5, y: -186}
+        - {x: -347.5, y: -192}
+        - {x: -347.5, y: -194}
+        - {x: -348.5, y: -195}
+        - {x: -349.5, y: -199}
+        - {x: -351.5, y: -201}
+        - {x: -351.5, y: -236}
+        - {x: -348.5, y: -240}
+        - {x: -347.5, y: -244}
+        - {x: -345.5, y: -246}
+        - {x: -345.5, y: -247}
+        - {x: -341.5, y: -252}
+        - {x: -340.5, y: -252}
+        - {x: -337.5, y: -256}
+        - {x: -335.5, y: -256}
+        - {x: -333.5, y: -259}
+        - {x: -328.5, y: -261}
+        - {x: -323.5, y: -262}
+        - {x: -321.5, y: -264}
+        - {x: -309.5, y: -265}
+        - {x: -228.5, y: -265}
+        - {x: -227.5, y: -264}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

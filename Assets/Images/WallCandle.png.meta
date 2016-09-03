@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 73c00fa023164634d8caaea65e9a9c10
+timeCreated: 1463487372
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WallCandle_0
+    21300002: WallCandle_1
+    21300004: WallCandle_2
+    21300006: WallCandle_7
+    21300008: WallCandle_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WallCandle_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 398
+        width: 248
+        height: 224
+      alignment: 9
+      pivot: {x: 0.51325613, y: 0.30694962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.71248, y: 135.24329}
+        - {x: 68.71248, y: 150.24329}
+        - {x: 42.71248, y: 155.24329}
+        - {x: -45.28752, y: 155.24329}
+        - {x: -73.28752, y: 145.24329}
+        - {x: -115.28752, y: 99.243286}
+        - {x: -127.28752, y: 80.243286}
+        - {x: -127.28752, y: 34.243286}
+        - {x: -113.28752, y: -9.756714}
+        - {x: -95.28752, y: -26.756714}
+        - {x: -27.287521, y: -53.756714}
+        - {x: 9.712479, y: -68.756714}
+        - {x: 32.71248, y: -68.756714}
+        - {x: 119.71248, y: -16.756714}
+        - {x: 120.71248, y: -5.756714}
+        - {x: 120.71248, y: 102.243286}
+    - name: WallCandle_1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 339
+        width: 265
+        height: 301
+      alignment: 9
+      pivot: {x: 0.48073938, y: 0.23870626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.604065, y: 190.14941}
+        - {x: 62.604065, y: 194.14941}
+        - {x: 53.604065, y: 181.14941}
+        - {x: -17.395935, y: 160.14941}
+        - {x: -54.395935, y: 210.14941}
+        - {x: -63.395935, y: 219.14941}
+        - {x: -71.395935, y: 219.14941}
+        - {x: -77.395935, y: 143.14941}
+        - {x: -127.395935, y: 83.149414}
+        - {x: -127.395935, y: 22.149414}
+        - {x: -89.395935, y: -44.850586}
+        - {x: -43.395935, y: -71.850586}
+        - {x: 2.604065, y: -71.850586}
+        - {x: 110.604065, y: -24.850586}
+        - {x: 137.60406, y: 27.149414}
+        - {x: 137.60406, y: 86.149414}
+      - - {x: 58.604065, y: 193.14941}
+        - {x: 63.604065, y: 193.14941}
+        - {x: 63.604065, y: 206.14941}
+        - {x: 58.604065, y: 206.14941}
+        - {x: 56.604065, y: 205.14941}
+        - {x: 56.604065, y: 197.14941}
+      - - {x: -66.395935, y: 229.14941}
+        - {x: -66.395935, y: 223.14941}
+        - {x: -64.395935, y: 221.14941}
+        - {x: -62.395935, y: 221.14941}
+        - {x: -60.395935, y: 223.14941}
+        - {x: -60.395935, y: 229.14941}
+    - name: WallCandle_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 251
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5051579, y: 0.2702526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.205368, y: 181.24826}
+        - {x: 55.205368, y: 176.24826}
+        - {x: -50.794632, y: 156.24826}
+        - {x: -58.794632, y: 193.24826}
+        - {x: -76.79463, y: 193.24826}
+        - {x: -126.79463, y: 102.24827}
+        - {x: -126.79463, y: 0.24826813}
+        - {x: -62.794632, y: -76.75173}
+        - {x: 73.20537, y: -76.75173}
+        - {x: 124.20537, y: 5.248268}
+        - {x: 124.20537, y: 97.24827}
+        - {x: 66.20537, y: 187.24826}
+      - - {x: -77.79463, y: 207.24826}
+        - {x: -77.79463, y: 204.24826}
+        - {x: -68.79463, y: 189.24826}
+        - {x: -39.794632, y: 183.24826}
+        - {x: 27.205368, y: 183.24826}
+        - {x: 53.205368, y: 201.24826}
+        - {x: 53.205368, y: 207.24826}
+      - - {x: 57.205368, y: 193.24826}
+        - {x: 57.205368, y: 187.24826}
+        - {x: 60.205368, y: 184.24826}
+        - {x: 63.205368, y: 185.24826}
+        - {x: 63.205368, y: 196.24826}
+        - {x: 61.205368, y: 198.24826}
+        - {x: 58.205368, y: 197.24826}
+    - name: WallCandle_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 282
+        height: 300
+      alignment: 9
+      pivot: {x: 0.51295483, y: 0.23939943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.34674, y: 129.18018}
+        - {x: 91.34674, y: 219.18018}
+        - {x: 82.34674, y: 228.18018}
+        - {x: 66.34674, y: 228.18018}
+        - {x: 55.34674, y: 223.18018}
+        - {x: -26.65326, y: 199.18018}
+        - {x: -82.65326, y: 228.18018}
+        - {x: -94.65326, y: 228.18018}
+        - {x: -104.65326, y: 222.18018}
+        - {x: -22.65326, y: 168.18018}
+        - {x: -66.65326, y: 193.18018}
+        - {x: -95.65326, y: 118.18017}
+        - {x: -141.65326, y: 95.18017}
+        - {x: -141.65326, y: 1.1801682}
+        - {x: -108.65326, y: -40.81983}
+        - {x: -42.65326, y: -71.81983}
+        - {x: 57.34674, y: -71.81983}
+        - {x: 102.34674, y: -38.81983}
+        - {x: 137.34674, y: 26.180168}
+        - {x: 137.34674, y: 88.18017}
+      - - {x: -144.65326, y: 5.180168}
+        - {x: -143.65326, y: 4.180168}
+        - {x: -140.65326, y: 5.180168}
+        - {x: -140.65326, y: 12.180168}
+        - {x: -142.65326, y: 14.180168}
+        - {x: -144.65326, y: 13.180168}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

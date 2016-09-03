@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: b646c0187aa5af042a9e2a046bb82a3d
+timeCreated: 1463488239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NewLargeSlimeAttack_0
+    21300002: NewLargeSlimeAttack_1
+    21300004: NewLargeSlimeAttack_2
+    21300006: NewLargeSlimeAttack_3
+    21300008: NewLargeSlimeAttack_4
+    21300010: NewLargeSlimeAttack_5
+    21300012: NewLargeSlimeAttack_6
+    21300014: NewLargeSlimeAttack_7
+    21300016: NewLargeSlimeAttack_8
+    21300018: NewLargeSlimeAttack_9
+    21300020: NewLargeSlimeAttack_10
+    21300022: NewLargeSlimeAttack_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NewLargeSlimeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 55.5}
+        - {x: -22, y: 55.5}
+        - {x: -39, y: 23.5}
+        - {x: -39, y: -50.5}
+        - {x: -28, y: -55.5}
+        - {x: 39, y: -55.5}
+        - {x: 39, y: -6.5}
+        - {x: 33, y: 36.5}
+    - name: NewLargeSlimeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 77
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 55}
+        - {x: -38.5, y: 18}
+        - {x: -38.5, y: -44}
+        - {x: -25.5, y: -55}
+        - {x: 34.5, y: -55}
+        - {x: 37.5, y: -53}
+        - {x: 38.5, y: -50}
+        - {x: 38.5, y: 49}
+        - {x: 36.5, y: 55}
+    - name: NewLargeSlimeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 177
+        width: 98
+        height: 110
+      alignment: 9
+      pivot: {x: 0.38346723, y: 0.5239585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.42021, y: 3.364563}
+        - {x: 32.42021, y: -3.635437}
+        - {x: 31.420212, y: -6.635437}
+        - {x: 32.42021, y: -4.635437}
+        - {x: 32.42021, y: -3.635437}
+        - {x: 35.42021, y: -1.635437}
+        - {x: 48.42021, y: 13.364563}
+        - {x: 37.42021, y: 52.364563}
+        - {x: -31.579788, y: 52.364563}
+        - {x: -37.57979, y: 32.364563}
+        - {x: -37.57979, y: -49.635437}
+        - {x: -7.579788, y: -57.635437}
+        - {x: 42.42021, y: -57.635437}
+        - {x: 60.42021, y: -30.635437}
+        - {x: 60.42021, y: 4.364563}
+        - {x: 48.42021, y: 7.364563}
+    - name: NewLargeSlimeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 177
+        width: 103
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3805954, y: 0.5239585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.798676, y: 3.364563}
+        - {x: 45.798676, y: 16.364563}
+        - {x: 39.798676, y: 52.364563}
+        - {x: -17.201324, y: 52.364563}
+        - {x: -39.201324, y: 47.364563}
+        - {x: -39.201324, y: -57.635437}
+        - {x: 35.798676, y: -57.635437}
+        - {x: 63.798676, y: -30.635437}
+        - {x: 63.798676, y: -7.635437}
+        - {x: 59.798676, y: 4.364563}
+    - name: NewLargeSlimeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 177
+        width: 97
+        height: 110
+      alignment: 9
+      pivot: {x: 0.40943578, y: 0.5239585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.715271, y: 52.364563}
+        - {x: -39.71527, y: 23.364563}
+        - {x: -39.71527, y: -29.635437}
+        - {x: -28.715271, y: -57.635437}
+        - {x: 47.28473, y: -57.635437}
+        - {x: 57.28473, y: -18.635437}
+        - {x: 57.28473, y: 22.364563}
+        - {x: 45.28473, y: 52.364563}
+    - name: NewLargeSlimeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 177
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 55}
+        - {x: -38, y: 47}
+        - {x: -38, y: -55}
+        - {x: 38, y: -55}
+        - {x: 38, y: 55}
+    - name: NewLargeSlimeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 182
+        width: 86
+        height: 110
+      alignment: 9
+      pivot: {x: 0.46935537, y: 0.4840278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.364563, y: 56.756943}
+        - {x: -40.364563, y: 45.756943}
+        - {x: -40.364563, y: -47.243057}
+        - {x: -24.364563, y: -53.243057}
+        - {x: 45.635437, y: -53.243057}
+        - {x: 45.635437, y: 21.756943}
+        - {x: 38.635437, y: 56.756943}
+    - name: NewLargeSlimeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 181
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 55}
+        - {x: -48.5, y: 14}
+        - {x: -48.5, y: -48}
+        - {x: -34.5, y: -55}
+        - {x: 30.5, y: -55}
+        - {x: 48.5, y: -49}
+        - {x: 48.5, y: -2}
+        - {x: 19.5, y: 55}
+    - name: NewLargeSlimeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 28
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 28.5}
+        - {x: 12.5, y: 48.5}
+        - {x: 8.5, y: 49.5}
+        - {x: -5.5, y: 49.5}
+        - {x: -30.5, y: 21.5}
+        - {x: -30.5, y: -20.5}
+        - {x: -19.5, y: -49.5}
+        - {x: -1.5, y: -49.5}
+        - {x: 0.5, y: -40.5}
+        - {x: 20.5, y: -46.5}
+        - {x: 30.5, y: -47.5}
+    - name: NewLargeSlimeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 92
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: -2}
+        - {x: 6, y: 18}
+        - {x: -28, y: 18}
+        - {x: -30, y: 17}
+      - - {x: 15, y: 9}
+        - {x: 10, y: 5}
+        - {x: 10, y: -5}
+        - {x: 30, y: -5}
+        - {x: 30, y: 9}
+    - name: NewLargeSlimeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 91
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 18}
+        - {x: -32, y: 17}
+        - {x: -32, y: -18}
+        - {x: -1, y: -18}
+        - {x: 10, y: -1}
+        - {x: 10, y: 18}
+      - - {x: 6, y: -6}
+        - {x: 3, y: -7}
+        - {x: 3, y: -12}
+        - {x: 9, y: -17}
+        - {x: 15, y: -17}
+        - {x: 19, y: -15}
+        - {x: 19, y: -9}
+        - {x: 18, y: -6}
+      - - {x: 15, y: 7}
+        - {x: 11, y: 3}
+        - {x: 12, y: 0}
+        - {x: 19, y: -7}
+        - {x: 28, y: -7}
+        - {x: 32, y: -5}
+        - {x: 32, y: 4}
+        - {x: 30, y: 7}
+    - name: NewLargeSlimeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 92
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 15}
+        - {x: 15, y: 18}
+        - {x: -27, y: 18}
+        - {x: -30, y: 16}
+        - {x: -30, y: -18}
+        - {x: 9, y: -18}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: 16, y: 2}
+      - - {x: 20, y: 8}
+        - {x: 16, y: 6}
+        - {x: 9, y: -1}
+        - {x: 9, y: -5}
+        - {x: 15, y: -6}
+        - {x: 28, y: -6}
+        - {x: 30, y: -5}
+        - {x: 30, y: 2}
+        - {x: 28, y: 8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

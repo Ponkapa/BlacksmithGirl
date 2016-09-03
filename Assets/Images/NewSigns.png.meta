@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 3cd39cb0c2177874480ff2c2ce9ab78c
+timeCreated: 1463467016
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NewSigns_0
+    21300002: NewSigns_1
+    21300004: NewSigns_2
+    21300006: NewSigns_3
+    21300008: NewSigns_4
+    21300010: NewSigns_5
+    21300012: NewSigns_6
+    21300014: NewSigns_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NewSigns_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 705
+        width: 217
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 119}
+        - {x: -108.5, y: 115}
+        - {x: -108.5, y: -15}
+        - {x: -104.5, y: -21}
+        - {x: -24.5, y: -22}
+        - {x: -10.5, y: -119}
+        - {x: 11.5, y: -119}
+        - {x: 22.5, y: -30}
+        - {x: 108.5, y: -30}
+        - {x: 108.5, y: 119}
+    - name: NewSigns_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 707
+        width: 217
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 118.5}
+        - {x: -63.5, y: 118.5}
+        - {x: -79.5, y: 117.5}
+        - {x: -108.5, y: 115.5}
+        - {x: -108.5, y: -13.5}
+        - {x: -105.5, y: -20.5}
+        - {x: -18.5, y: -26.5}
+        - {x: -11.5, y: -118.5}
+        - {x: 13.5, y: -118.5}
+        - {x: 108.5, y: -27.5}
+        - {x: 108.5, y: 113.5}
+        - {x: 106.5, y: 116.5}
+    - name: NewSigns_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 707
+        width: 217
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.5, y: 113.5}
+        - {x: 105.5, y: 115.5}
+        - {x: 75.5, y: 118.5}
+        - {x: -71.5, y: 118.5}
+        - {x: -108.5, y: 115.5}
+        - {x: -108.5, y: -20.5}
+        - {x: -20.5, y: -28.5}
+        - {x: -14.5, y: -117.5}
+        - {x: -10.5, y: -118.5}
+        - {x: 9.5, y: -118.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 68.5, y: -28.5}
+        - {x: 108.5, y: -18.5}
+    - name: NewSigns_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 409
+        width: 217
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 119}
+        - {x: -106.5, y: 116}
+        - {x: -108.5, y: 114}
+        - {x: -108.5, y: -17}
+        - {x: -6.5, y: -119}
+        - {x: 6.5, y: -119}
+        - {x: 14.5, y: -114}
+        - {x: 108.5, y: -24}
+        - {x: 108.5, y: 119}
+    - name: NewSigns_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 411
+        width: 217
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.5, y: 118.5}
+        - {x: -108.5, y: 118.5}
+        - {x: -108.5, y: -21.5}
+        - {x: -21.5, y: -29.5}
+        - {x: -11.5, y: -118.5}
+        - {x: 11.5, y: -118.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 40.5, y: -44.5}
+        - {x: 108.5, y: -24.5}
+    - name: NewSigns_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 411
+        width: 217
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.5, y: 117.5}
+        - {x: 99.5, y: 118.5}
+        - {x: -108.5, y: 118.5}
+        - {x: -108.5, y: -22.5}
+        - {x: -20.5, y: -28.5}
+        - {x: -10.5, y: -118.5}
+        - {x: 9.5, y: -118.5}
+        - {x: 14.5, y: -115.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 108.5, y: -29.5}
+        - {x: 108.5, y: 115.5}
+    - name: NewSigns_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 135
+        width: 217
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.5, y: 119}
+        - {x: -108.5, y: 119}
+        - {x: -108.5, y: -19}
+        - {x: -104.5, y: -21}
+        - {x: -10.5, y: -19}
+        - {x: -10.5, y: -114}
+        - {x: -8.5, y: -119}
+        - {x: 11.5, y: -119}
+        - {x: 11.5, y: -19}
+        - {x: 46.5, y: -33}
+        - {x: 108.5, y: -33}
+    - name: NewSigns_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 137
+        width: 217
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 119}
+        - {x: -63.5, y: 116}
+        - {x: -66.5, y: 113}
+        - {x: -70.5, y: 103}
+        - {x: -81.5, y: 118}
+        - {x: -106.5, y: 116}
+        - {x: -108.5, y: 114}
+        - {x: -108.5, y: -60}
+        - {x: -10.5, y: -119}
+        - {x: 51.5, y: -119}
+        - {x: 108.5, y: -32}
+        - {x: 108.5, y: 116}
+        - {x: 85.5, y: 119}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

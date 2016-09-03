@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: e86e544528350f440828d0927c96affd
+timeCreated: 1461387604
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CrawlAnim_0
+    21300002: CrawlAnim_1
+    21300004: CrawlAnim_2
+    21300006: CrawlAnim_3
+    21300008: Crawling_2
+    21300010: Crawling_1
+    21300012: Crawling_0
+    21300014: CrawlAnim_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CrawlAnim_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 305
+        width: 199
+        height: 233
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.65001, y: -37.5}
+        - {x: 66.65001, y: -50.5}
+        - {x: 68.65001, y: -50.5}
+        - {x: 68.65001, y: 83.5}
+        - {x: 43.65001, y: 116.5}
+        - {x: -80.34999, y: 116.5}
+        - {x: -129.34999, y: 63.5}
+        - {x: -129.34999, y: -64.5}
+        - {x: -98.34999, y: -85.5}
+        - {x: -61.34999, y: -116.5}
+        - {x: 59.65001, y: -116.5}
+        - {x: 68.65001, y: -105.5}
+        - {x: 68.65001, y: -52.5}
+        - {x: 36.65001, y: -41.5}
+      - - {x: 66.65001, y: -22.5}
+        - {x: 68.65001, y: -24.5}
+        - {x: 69.65001, y: -24.5}
+        - {x: 69.65001, y: -19.5}
+        - {x: 67.65001, y: -19.5}
+    - name: CrawlAnim_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 310
+        width: 198
+        height: 228
+      alignment: 9
+      pivot: {x: 0.67, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.339996, y: 111.72}
+        - {x: -73.66, y: 111.72}
+        - {x: -94.66, y: 76.72}
+        - {x: -132.66, y: -18.279999}
+        - {x: -132.66, y: -82.28}
+        - {x: -131.66, y: -92.28}
+        - {x: -116.66, y: -106.28}
+        - {x: -81.66, y: -109.28}
+        - {x: -64.66, y: -83.28}
+        - {x: -61.660004, y: -73.28}
+        - {x: -35.660004, y: -116.28}
+        - {x: 65.34, y: -116.28}
+        - {x: 65.34, y: 67.72}
+        - {x: 55.339996, y: 99.72}
+      - - {x: 45.339996, y: -31.279999}
+        - {x: 48.339996, y: -30.279999}
+        - {x: 48.339996, y: -27.279999}
+        - {x: 45.339996, y: -26.279999}
+        - {x: 43.339996, y: -28.279999}
+    - name: CrawlAnim_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 299
+        width: 197
+        height: 225
+      alignment: 9
+      pivot: {x: 0.65, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.95001, y: 92.25}
+        - {x: -91.04999, y: 92.25}
+        - {x: -128.04999, y: 20.25}
+        - {x: -128.04999, y: -132.75}
+        - {x: -11.049988, y: -132.75}
+        - {x: 48.950012, y: -122.75}
+        - {x: 55.950012, y: -120.75}
+        - {x: 68.95001, y: -123.75}
+    - name: CrawlAnim_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 290
+        width: 206
+        height: 222
+      alignment: 9
+      pivot: {x: 0.66, y: 0.63}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.039978, y: -18.859985}
+        - {x: 3.039978, y: 14.140015}
+        - {x: -1.960022, y: 18.140015}
+        - {x: -13.960022, y: 24.140015}
+        - {x: -17.960022, y: 25.140015}
+        - {x: -17.960022, y: 30.140015}
+        - {x: -2.960022, y: 18.140015}
+        - {x: 8.039978, y: 12.140015}
+        - {x: 11.039978, y: 12.140015}
+        - {x: 38.039978, y: 17.140015}
+        - {x: -25.960022, y: 81.140015}
+        - {x: -29.960022, y: 82.140015}
+        - {x: -85.96002, y: 82.140015}
+        - {x: -126.96002, y: 26.140015}
+        - {x: -109.96002, y: -8.859985}
+        - {x: -72.96002, y: -28.859985}
+        - {x: -63.960022, y: -26.859985}
+        - {x: -70.96002, y: -47.859985}
+        - {x: -107.96002, y: -31.859985}
+        - {x: -135.96002, y: -54.859985}
+        - {x: -135.96002, y: -139.85999}
+        - {x: 70.03998, y: -139.85999}
+        - {x: 70.03998, y: -64.859985}
+        - {x: 41.039978, y: -21.859985}
+    - name: Crawling_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 207
+        height: 210
+      alignment: 9
+      pivot: {x: 0.68, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.240005, y: -98}
+        - {x: 66.240005, y: -97}
+        - {x: 66.240005, y: -67}
+        - {x: 48.240005, y: -53}
+        - {x: 27.240005, y: -43}
+        - {x: 12.2400055, y: -38}
+        - {x: 23.240005, y: -39}
+        - {x: 23.240005, y: -30}
+        - {x: -6.7599945, y: 39}
+        - {x: -19.759995, y: 54}
+        - {x: -30.759995, y: 63}
+        - {x: -93.759995, y: 63}
+        - {x: -140.76, y: 38}
+        - {x: -140.76, y: -147}
+        - {x: 66.240005, y: -147}
+        - {x: 66.240005, y: -142}
+        - {x: 61.240005, y: -111}
+        - {x: 53.240005, y: -101}
+        - {x: -25.759995, y: -94}
+    - name: Crawling_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 29
+        width: 216
+        height: 210
+      alignment: 9
+      pivot: {x: 0.68, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.880005, y: 63}
+        - {x: -137.88, y: -15}
+        - {x: -146.88, y: -54}
+        - {x: -146.88, y: -147}
+        - {x: -35.880005, y: -147}
+        - {x: 69.119995, y: -110}
+        - {x: 69.119995, y: -53}
+        - {x: 0.11999512, y: 63}
+      - - {x: -7.880005, y: -79}
+        - {x: -4.880005, y: -78}
+        - {x: -4.880005, y: -75}
+        - {x: -7.880005, y: -74}
+        - {x: -9.880005, y: -76}
+    - name: Crawling_0
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 33
+        width: 242
+        height: 212
+      alignment: 9
+      pivot: {x: 0.68, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5599976, y: -32.399994}
+        - {x: -6.5599976, y: -23.399994}
+        - {x: -5.5599976, y: -27.399994}
+        - {x: -2.5599976, y: -29.399994}
+        - {x: 21.440002, y: -32.399994}
+        - {x: 21.440002, y: -27.399994}
+        - {x: 16.440002, y: 59.600006}
+        - {x: -2.5599976, y: 63.600006}
+        - {x: -114.56, y: 63.600006}
+        - {x: -139.56, y: 29.600006}
+        - {x: -164.56, y: -13.399994}
+        - {x: -164.56, y: -148.4}
+        - {x: -22.559998, y: -148.4}
+        - {x: 77.44, y: -130.4}
+        - {x: 77.44, y: -74.399994}
+        - {x: 76.44, y: -71.399994}
+        - {x: 44.440002, y: -59.399994}
+        - {x: 16.440002, y: -36.399994}
+    - name: CrawlAnim_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 45
+        width: 222
+        height: 219
+      alignment: 9
+      pivot: {x: 0.7, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.599976, y: 65.7}
+        - {x: -113.400024, y: 65.7}
+        - {x: -134.40002, y: 30.699997}
+        - {x: -111.400024, y: -32.300003}
+        - {x: -88.400024, y: -38.300003}
+        - {x: -85.400024, y: -37.300003}
+        - {x: -99.400024, y: -58.300003}
+        - {x: -136.40002, y: -51.300003}
+        - {x: -155.40002, y: -72.3}
+        - {x: -155.40002, y: -146.3}
+        - {x: -138.40002, y: -153.3}
+        - {x: -52.400024, y: -153.3}
+        - {x: 54.599976, y: -126.3}
+        - {x: 66.599976, y: -123.3}
+        - {x: 66.599976, y: -88.3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

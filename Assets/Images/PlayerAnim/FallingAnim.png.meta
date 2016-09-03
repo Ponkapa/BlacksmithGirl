@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 547f303f0c7219f4485a72ac44abea08
+timeCreated: 1461802636
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FallingAnim_0
+    21300002: FallingAnim_1
+    21300004: FallingAnim_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FallingAnim_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 199
+        height: 233
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.65001, y: -37.5}
+        - {x: 66.65001, y: -50.5}
+        - {x: 68.65001, y: -50.5}
+        - {x: 68.65001, y: 83.5}
+        - {x: 43.65001, y: 116.5}
+        - {x: -80.34999, y: 116.5}
+        - {x: -129.34999, y: 63.5}
+        - {x: -129.34999, y: -64.5}
+        - {x: -98.34999, y: -85.5}
+        - {x: -61.34999, y: -116.5}
+        - {x: 59.65001, y: -116.5}
+        - {x: 68.65001, y: -105.5}
+        - {x: 68.65001, y: -52.5}
+        - {x: 36.65001, y: -41.5}
+      - - {x: 66.65001, y: -22.5}
+        - {x: 68.65001, y: -24.5}
+        - {x: 69.65001, y: -24.5}
+        - {x: 69.65001, y: -19.5}
+        - {x: 67.65001, y: -19.5}
+    - name: FallingAnim_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 232
+        height: 233
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.20001, y: -15.5}
+        - {x: 43.200012, y: 25.5}
+        - {x: 32.200012, y: 33.5}
+        - {x: 58.200012, y: 17.5}
+        - {x: 77.20001, y: 13.5}
+        - {x: 81.20001, y: 16.5}
+        - {x: 81.20001, y: 64.5}
+        - {x: 63.200012, y: 116.5}
+        - {x: -67.79999, y: 116.5}
+        - {x: -150.79999, y: 68.5}
+        - {x: -150.79999, y: -31.5}
+        - {x: -128.79999, y: -55.5}
+        - {x: -42.799988, y: -116.5}
+        - {x: 74.20001, y: -116.5}
+        - {x: 81.20001, y: -96.5}
+        - {x: 81.20001, y: -18.5}
+      - - {x: 73.20001, y: -12.5}
+        - {x: 75.20001, y: -14.5}
+        - {x: 78.20001, y: -13.5}
+        - {x: 78.20001, y: -10.5}
+        - {x: 76.20001, y: -8.5}
+        - {x: 73.20001, y: -9.5}
+    - name: FallingAnim_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 25
+        width: 248
+        height: 234
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.200012, y: 117}
+        - {x: -69.20001, y: 105}
+        - {x: -70.20001, y: 82}
+        - {x: -66.20001, y: 44}
+        - {x: -51.200012, y: 23}
+        - {x: -48.200012, y: 24}
+        - {x: -46.200012, y: 26}
+        - {x: -63.200012, y: -3}
+        - {x: -67.20001, y: 36}
+        - {x: -111.20001, y: 74}
+        - {x: -148.20001, y: 48}
+        - {x: -161.20001, y: 28}
+        - {x: -161.20001, y: -40}
+        - {x: -46.200012, y: -117}
+        - {x: 51.799988, y: -117}
+        - {x: 86.79999, y: -88}
+        - {x: 86.79999, y: 89}
+        - {x: 48.799988, y: 117}
+      - - {x: 73.79999, y: -5}
+        - {x: 76.79999, y: -4}
+        - {x: 76.79999, y: -1}
+        - {x: 73.79999, y: 0}
+        - {x: 71.79999, y: -2}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

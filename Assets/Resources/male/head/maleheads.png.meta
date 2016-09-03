@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 58a7230ddab68e54a90270bbfa3b5cd3
+timeCreated: 1462856453
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maleheads_0
+    21300002: maleheads_1
+    21300004: maleheads_2
+    21300006: maleheads_3
+    21300008: maleheads_4
+    21300010: maleheads_5
+    21300012: maleheads_6
+    21300014: maleheads_7
+    21300016: maleheads_8
+    21300018: maleheads_9
+    21300020: maleheads_10
+    21300022: maleheads_11
+    21300024: maleheads_12
+    21300026: maleheads_13
+    21300028: maleheads_14
+    21300030: maleheads_15
+    21300032: maleheads_16
+    21300034: maleheads_17
+    21300036: maleheads_18
+    21300038: maleheads_19
+    21300040: maleheads_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 175
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: maleheads_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 108
+        height: 141
+      alignment: 9
+      pivot: {x: 0.18814212, y: 0.45790672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.3193512, y: 76.43515}
+        - {x: -20.319351, y: 68.43515}
+        - {x: -20.319351, y: -61.56485}
+        - {x: -6.319351, y: -64.56485}
+        - {x: 87.68065, y: -64.56485}
+        - {x: 87.68065, y: 75.43515}
+        - {x: 82.68065, y: 76.43515}
+    - name: maleheads_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 404
+        width: 105
+        height: 141
+      alignment: 9
+      pivot: {x: 0.17351873, y: 0.47082475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.219467, y: 74.61371}
+        - {x: -18.219467, y: 59.61371}
+        - {x: -18.219467, y: -47.38629}
+        - {x: -17.219467, y: -53.38629}
+        - {x: -8.219467, y: -66.38629}
+        - {x: 77.78053, y: -66.38629}
+        - {x: 86.78053, y: -64.38629}
+        - {x: 86.78053, y: 39.61371}
+        - {x: 83.78053, y: 55.61371}
+        - {x: 51.780533, y: 74.61371}
+    - name: maleheads_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 404
+        width: 107
+        height: 141
+      alignment: 9
+      pivot: {x: 0.16680624, y: 0.46109962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.15173, y: 75.984955}
+        - {x: -17.848267, y: 75.984955}
+        - {x: -17.848267, y: -60.015045}
+        - {x: 7.1517334, y: -65.015045}
+        - {x: 83.15173, y: -65.015045}
+        - {x: 89.15173, y: -62.015045}
+        - {x: 89.15173, y: 2.9849548}
+        - {x: 79.15173, y: 45.984955}
+    - name: maleheads_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 404
+        width: 110
+        height: 141
+      alignment: 9
+      pivot: {x: 0.17871426, y: 0.4782046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.34143, y: 73.57315}
+        - {x: -6.6585693, y: 73.57315}
+        - {x: -18.65857, y: 71.57315}
+        - {x: -19.65857, y: 66.57315}
+        - {x: -19.65857, y: -66.42685}
+        - {x: -15.658569, y: -67.42685}
+        - {x: 90.34143, y: -67.42685}
+        - {x: 90.34143, y: 22.57315}
+        - {x: 80.34143, y: 54.57315}
+    - name: maleheads_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 400
+        width: 109
+        height: 140
+      alignment: 9
+      pivot: {x: 0.18549928, y: 0.46082154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.219421, y: 75.484985}
+        - {x: -20.219421, y: 59.484985}
+        - {x: -20.219421, y: 13.484985}
+        - {x: -8.219421, y: 3.4849854}
+        - {x: -4.2194214, y: -4.5150146}
+        - {x: -6.2194214, y: -0.51501465}
+        - {x: -10.219421, y: 3.4849854}
+        - {x: -14.219421, y: -7.5150146}
+        - {x: -20.219421, y: -31.515015}
+        - {x: -20.219421, y: -41.515015}
+        - {x: -9.219421, y: -64.515015}
+        - {x: 74.78058, y: -64.515015}
+        - {x: 88.78058, y: -56.515015}
+        - {x: 88.78058, y: -15.515015}
+        - {x: 79.78058, y: 75.484985}
+    - name: maleheads_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 387
+        width: 116
+        height: 142
+      alignment: 9
+      pivot: {x: 0.20447883, y: 0.47102958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.280457, y: 75.1138}
+        - {x: -9.719543, y: 75.1138}
+        - {x: -23.719543, y: 47.1138}
+        - {x: -23.719543, y: -24.8862}
+        - {x: -8.719543, y: -66.8862}
+        - {x: 75.28046, y: -66.8862}
+        - {x: 92.28046, y: -59.8862}
+        - {x: 92.28046, y: 10.1138}
+        - {x: 83.28046, y: 56.1138}
+    - name: maleheads_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 387
+        width: 113
+        height: 142
+      alignment: 9
+      pivot: {x: 0.20876724, y: 0.47102913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5906982, y: 75.11386}
+        - {x: -23.590698, y: 55.11386}
+        - {x: -23.590698, y: -41.88614}
+        - {x: -17.590698, y: -66.88614}
+        - {x: 89.4093, y: -66.88614}
+        - {x: 89.4093, y: 75.11386}
+    - name: maleheads_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 386
+        width: 113
+        height: 143
+      alignment: 9
+      pivot: {x: 0.22090189, y: 0.46164387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.961914, y: 76.984924}
+        - {x: -24.961914, y: -66.015076}
+        - {x: 88.038086, y: -66.015076}
+        - {x: 88.038086, y: -3.0150757}
+        - {x: 77.038086, y: 76.984924}
+    - name: maleheads_8
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 393
+        width: 117
+        height: 142
+      alignment: 9
+      pivot: {x: 0.23044372, y: 0.46137378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.038086, y: 76.484924}
+        - {x: -1.9619141, y: 76.484924}
+        - {x: -26.961914, y: 70.484924}
+        - {x: -26.961914, y: -64.515076}
+        - {x: -22.961914, y: -65.515076}
+        - {x: 90.038086, y: -65.515076}
+        - {x: 90.038086, y: 47.484924}
+        - {x: 87.038086, y: 61.484924}
+    - name: maleheads_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 226
+        width: 102
+        height: 141
+      alignment: 9
+      pivot: {x: 0.13702992, y: 0.47082475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.022949, y: 74.61371}
+        - {x: -13.977051, y: 67.61371}
+        - {x: -13.977051, y: -60.38629}
+        - {x: -2.9770508, y: -66.38629}
+        - {x: 83.02295, y: -66.38629}
+        - {x: 88.02295, y: -57.38629}
+        - {x: 88.02295, y: -4.3862915}
+        - {x: 61.02295, y: 74.61371}
+    - name: maleheads_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 226
+        width: 107
+        height: 145
+      alignment: 9
+      pivot: {x: 0.16437879, y: 0.4480698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.41147, y: 56.029877}
+        - {x: 59.41147, y: 80.02988}
+        - {x: -13.5885315, y: 80.02988}
+        - {x: -17.588531, y: 79.02988}
+        - {x: -17.588531, y: -63.970123}
+        - {x: -15.5885315, y: -64.97012}
+        - {x: 89.41147, y: -64.97012}
+        - {x: 89.41147, y: -36.970123}
+        - {x: 81.41147, y: -29.970123}
+        - {x: 74.41147, y: -25.970123}
+        - {x: 85.41147, y: 3.0298767}
+    - name: maleheads_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 225
+        width: 101
+        height: 143
+      alignment: 9
+      pivot: {x: 0.13448341, y: 0.46439132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5828247, y: 76.59204}
+        - {x: -9.582825, y: 68.59204}
+        - {x: -13.582825, y: 53.59204}
+        - {x: -13.582825, y: 10.592041}
+        - {x: -10.582825, y: -14.407959}
+        - {x: -7.5828247, y: -24.407959}
+        - {x: -6.5828247, y: -26.407959}
+        - {x: 0.4171753, y: -29.407959}
+        - {x: 5.4171753, y: -28.407959}
+        - {x: 0.4171753, y: -29.407959}
+        - {x: -12.582825, y: -30.407959}
+        - {x: -13.582825, y: -32.40796}
+        - {x: -13.582825, y: -63.40796}
+        - {x: 0.4171753, y: -66.40796}
+        - {x: 87.417175, y: -66.40796}
+        - {x: 87.417175, y: 18.592041}
+        - {x: 73.417175, y: 76.59204}
+    - name: maleheads_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 109
+        height: 138
+      alignment: 9
+      pivot: {x: 0.1905078, y: 0.49077508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.76535, y: 70.27304}
+        - {x: -20.76535, y: 50.27304}
+        - {x: -20.76535, y: -67.72696}
+        - {x: 88.23465, y: -67.72696}
+        - {x: 88.23465, y: 11.273041}
+        - {x: 65.23465, y: 70.27304}
+    - name: maleheads_13
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 215
+        width: 109
+        height: 136
+      alignment: 9
+      pivot: {x: 0.1846683, y: 0.49999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.871155, y: 41.00003}
+        - {x: 58.871155, y: 68.00003}
+        - {x: -7.128845, y: 68.00003}
+        - {x: -20.128845, y: 63.00003}
+        - {x: -20.128845, y: -43.99997}
+        - {x: -14.128845, y: -67.99997}
+        - {x: 73.871155, y: -67.99997}
+        - {x: 88.871155, y: -61.99997}
+        - {x: 88.871155, y: -33.99997}
+        - {x: 84.871155, y: -26.99997}
+    - name: maleheads_14
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 216
+        width: 107
+        height: 137
+      alignment: 9
+      pivot: {x: 0.17800818, y: 0.48295048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.046875, y: 70.835785}
+        - {x: -19.046875, y: 65.835785}
+        - {x: -19.046875, y: -65.164215}
+        - {x: -18.046875, y: -66.164215}
+        - {x: 87.953125, y: -66.164215}
+        - {x: 87.953125, y: 25.835785}
+        - {x: 76.953125, y: 70.835785}
+    - name: maleheads_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 216
+        width: 109
+        height: 137
+      alignment: 9
+      pivot: {x: 0.17855695, y: 0.48721248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.4627075, y: 70.25189}
+        - {x: -19.462708, y: 67.25189}
+        - {x: -19.462708, y: -66.74811}
+        - {x: 89.53729, y: -66.74811}
+        - {x: 89.53729, y: 58.251892}
+        - {x: 77.53729, y: 70.25189}
+    - name: maleheads_16
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 214
+        width: 111
+        height: 140
+      alignment: 9
+      pivot: {x: 0.18435037, y: 0.46663165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.46289, y: 74.67157}
+        - {x: -20.46289, y: -59.32843}
+        - {x: -13.462891, y: -65.32843}
+        - {x: 90.53711, y: -65.32843}
+        - {x: 90.53711, y: 59.67157}
+        - {x: 83.53711, y: 74.67157}
+    - name: maleheads_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 107
+        height: 128
+      alignment: 9
+      pivot: {x: 0.16709535, y: 0.5144274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.879204, y: 62.15329}
+        - {x: -17.879204, y: -65.84671}
+        - {x: 89.1208, y: -65.84671}
+        - {x: 89.1208, y: 12.15329}
+        - {x: 72.1208, y: 62.15329}
+    - name: maleheads_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 61
+        width: 105
+        height: 126
+      alignment: 9
+      pivot: {x: 0.16022477, y: 0.5126783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.8236, y: 61.402534}
+        - {x: -16.8236, y: -62.597466}
+        - {x: -14.823601, y: -64.597466}
+        - {x: 82.1764, y: -64.597466}
+        - {x: 88.1764, y: -56.597466}
+        - {x: 88.1764, y: 11.4025345}
+        - {x: 72.1764, y: 61.402534}
+    - name: maleheads_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 57
+        width: 103
+        height: 144
+      alignment: 9
+      pivot: {x: 0.14328773, y: 0.46302202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.758636, y: 77.32483}
+        - {x: -14.758636, y: -56.67517}
+        - {x: 1.2413635, y: -66.67517}
+        - {x: 83.24136, y: -66.67517}
+        - {x: 88.24136, y: -57.67517}
+        - {x: 88.24136, y: 29.32483}
+        - {x: 80.24136, y: 77.32483}
+    - name: maleheads_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 55
+        width: 106
+        height: 144
+      alignment: 9
+      pivot: {x: 0.16845416, y: 0.44759813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.8561401, y: 79.54587}
+        - {x: -17.85614, y: 65.54587}
+        - {x: -17.85614, y: -40.454132}
+        - {x: -12.85614, y: -64.45413}
+        - {x: 88.14386, y: -64.45413}
+        - {x: 88.14386, y: 50.545868}
+        - {x: 64.14386, y: 79.54587}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: e0cec79fbe2dc9c428a5c099da6613da
+timeCreated: 1463343710
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StageBoss_0
+    21300002: StageBoss_1
+    21300004: StageBoss_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StageBoss_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 500
+        width: 310
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -167.5}
+        - {x: 34, y: -171.5}
+        - {x: 55, y: -170.5}
+        - {x: 64, y: -117.5}
+        - {x: 63, y: -101.5}
+        - {x: 56, y: -95.5}
+        - {x: 68, y: -106.5}
+        - {x: 74, y: -140.5}
+        - {x: 105, y: -106.5}
+        - {x: 155, y: 74.5}
+        - {x: 155, y: 105.5}
+        - {x: 144, y: 114.5}
+        - {x: 40, y: 183.5}
+        - {x: 30, y: 185.5}
+        - {x: -34, y: 185.5}
+        - {x: -43, y: 176.5}
+        - {x: -155, y: 113.5}
+        - {x: -155, y: -135.5}
+        - {x: -76, y: -149.5}
+        - {x: -69, y: -147.5}
+        - {x: -50, y: -118.5}
+        - {x: -45, y: -107.5}
+        - {x: -40, y: -151.5}
+        - {x: -38, y: -153.5}
+        - {x: -36, y: -153.5}
+        - {x: -34, y: -152.5}
+        - {x: -29, y: -143.5}
+        - {x: -28, y: -136.5}
+        - {x: -28, y: -132.5}
+        - {x: -27, y: -131.5}
+        - {x: -28, y: -135.5}
+        - {x: -27, y: -138.5}
+        - {x: -21, y: -136.5}
+        - {x: -27, y: -153.5}
+        - {x: -32, y: -171.5}
+        - {x: -22, y: -185.5}
+        - {x: -7, y: -185.5}
+        - {x: -2, y: -176.5}
+        - {x: 29, y: -169.5}
+        - {x: 30, y: -146.5}
+    - name: StageBoss_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 161
+        width: 278
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -167}
+        - {x: 39, y: -175}
+        - {x: 64, y: -165}
+        - {x: 70, y: -107}
+        - {x: 65, y: -101}
+        - {x: 53, y: -92}
+        - {x: 73, y: -107}
+        - {x: 77, y: -126}
+        - {x: 84, y: -133}
+        - {x: 112, y: -104}
+        - {x: 139, y: -39}
+        - {x: 139, y: 77}
+        - {x: 28, y: 185}
+        - {x: -70, y: 185}
+        - {x: -139, y: 85}
+        - {x: -139, y: -65}
+        - {x: -109, y: -153}
+        - {x: -28, y: -162}
+        - {x: -25, y: -143}
+        - {x: -25, y: -131}
+        - {x: -24, y: -130}
+        - {x: -25, y: -134}
+        - {x: -25, y: -136}
+        - {x: -23, y: -138}
+        - {x: -20, y: -139}
+        - {x: -23, y: -154}
+        - {x: -23, y: -157}
+        - {x: -20, y: -159}
+        - {x: -20, y: -185}
+        - {x: 0, y: -185}
+        - {x: 33, y: -164}
+        - {x: 30, y: -148}
+        - {x: 41, y: -131}
+    - name: StageBoss_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 485
+        width: 310
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -101.5}
+        - {x: 72, y: -138.5}
+        - {x: 109, y: -97.5}
+        - {x: 155, y: -33.5}
+        - {x: 155, y: 99.5}
+        - {x: 73, y: 185.5}
+        - {x: -43, y: 185.5}
+        - {x: -155, y: 103.5}
+        - {x: -155, y: 62.5}
+        - {x: -146, y: 54.5}
+        - {x: -140, y: -23.5}
+        - {x: -117, y: -119.5}
+        - {x: -77, y: -105.5}
+        - {x: -71, y: -102.5}
+        - {x: -76, y: -127.5}
+        - {x: -79, y: -147.5}
+        - {x: -73, y: -149.5}
+        - {x: -51, y: -117.5}
+        - {x: -41, y: -152.5}
+        - {x: -38, y: -153.5}
+        - {x: -35, y: -150.5}
+        - {x: -30, y: -138.5}
+        - {x: -29, y: -131.5}
+        - {x: -28, y: -129.5}
+        - {x: -29, y: -133.5}
+        - {x: -29, y: -136.5}
+        - {x: -26, y: -138.5}
+        - {x: -29, y: -153.5}
+        - {x: -27, y: -159.5}
+        - {x: -39, y: -185.5}
+        - {x: 41, y: -185.5}
+        - {x: 73, y: -180.5}
+        - {x: 61, y: -101.5}
+        - {x: 51, y: -93.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

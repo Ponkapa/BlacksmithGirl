@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: ee96f7a4d39baab4d80f0b30a2f21e39
+timeCreated: 1463204648
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KnightAttack_0
+    21300002: KnightAttack_1
+    21300004: KnightAttack_2
+    21300006: KnightAttack_3
+    21300008: KnightAttack_4
+    21300010: KnightAttack_5
+    21300012: KnightAttack_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KnightAttack_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 105
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 57.5}
+        - {x: -47.5, y: 43.5}
+        - {x: -47.5, y: 27.5}
+        - {x: -38.5, y: 20.5}
+        - {x: -33.5, y: -38.5}
+        - {x: -19.5, y: -57.5}
+        - {x: 12.5, y: -57.5}
+        - {x: 18.5, y: -56.5}
+        - {x: 47.5, y: -40.5}
+        - {x: 47.5, y: 42.5}
+        - {x: 38.5, y: 57.5}
+    - name: KnightAttack_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 105
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -9.5}
+        - {x: 46, y: -7.5}
+        - {x: 46, y: 25.5}
+        - {x: 5, y: 53.5}
+        - {x: -11, y: 57.5}
+        - {x: -34, y: 57.5}
+        - {x: -46, y: 50.5}
+        - {x: -46, y: 0.5}
+        - {x: -27, y: -57.5}
+        - {x: 14, y: -57.5}
+        - {x: 16, y: -48.5}
+        - {x: 11, y: -45.5}
+        - {x: 34, y: -22.5}
+    - name: KnightAttack_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 105
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 57.5}
+        - {x: -27, y: 57.5}
+        - {x: -44, y: 42.5}
+        - {x: -44, y: 24.5}
+        - {x: -37, y: -0.5}
+        - {x: -18, y: -57.5}
+        - {x: 18, y: -57.5}
+        - {x: 29, y: -44.5}
+        - {x: 44, y: -20.5}
+        - {x: 44, y: 46.5}
+    - name: KnightAttack_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 105
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 57.5}
+        - {x: -42.5, y: 57.5}
+        - {x: -42.5, y: 13.5}
+        - {x: -18.5, y: -56.5}
+        - {x: -17.5, y: -57.5}
+        - {x: 17.5, y: -57.5}
+        - {x: 19.5, y: -54.5}
+        - {x: 42.5, y: -12.5}
+        - {x: 42.5, y: 56.5}
+    - name: KnightAttack_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 104
+        width: 89
+        height: 117
+      alignment: 9
+      pivot: {x: 0.44378594, y: 0.49144778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.496948, y: 59.50061}
+        - {x: -39.49695, y: 51.50061}
+        - {x: -39.49695, y: -57.49939}
+        - {x: 32.50305, y: -57.49939}
+        - {x: 49.50305, y: -19.49939}
+        - {x: 49.50305, y: 48.50061}
+        - {x: 34.50305, y: 59.50061}
+    - name: KnightAttack_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 105
+        width: 101
+        height: 110
+      alignment: 9
+      pivot: {x: 0.33158103, y: 0.51819277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.489685, y: 52.998795}
+        - {x: -33.489685, y: 49.998795}
+        - {x: -33.489685, y: -51.001205}
+        - {x: -32.489685, y: -57.001205}
+        - {x: 32.510315, y: -57.001205}
+        - {x: 67.510315, y: -16.001205}
+        - {x: 67.510315, y: 22.998795}
+        - {x: 10.510315, y: 52.998795}
+    - name: KnightAttack_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 104
+        width: 111
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3557684, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.509705, y: 55}
+        - {x: -21.490295, y: 55}
+        - {x: -39.490295, y: 34}
+        - {x: -39.490295, y: 29}
+        - {x: -21.490295, y: 17}
+        - {x: -12.490295, y: 22}
+        - {x: -19.490295, y: 10}
+        - {x: -39.490295, y: -33}
+        - {x: -39.490295, y: -55}
+        - {x: 41.509705, y: -55}
+        - {x: 71.509705, y: -7}
+        - {x: 71.509705, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 3142186ef95e9414199f32c1cdc07bf0
+timeCreated: 1462917976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ForestElements_0
+    21300002: ForestElements_1
+    21300004: ForestElements_2
+    21300006: ForestElements_3
+    21300008: ForestElements_4
+    21300010: ForestElements_5
+    21300012: ForestElements_6
+    21300014: ForestElements_7
+    21300016: ForestElements_8
+    21300018: ForestElements_9
+    21300020: ForestElements_10
+    21300022: ForestElements_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ForestElements_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 654
+        width: 815
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: -129.5}
+        - {x: -26.5, y: -139.5}
+        - {x: -19.5, y: -123.5}
+        - {x: 23.5, y: -113.5}
+        - {x: 29.5, y: -103.5}
+        - {x: 37.5, y: -87.5}
+        - {x: 68.5, y: -120.5}
+        - {x: 105.5, y: -118.5}
+        - {x: 121.5, y: -135.5}
+        - {x: 127.5, y: -140.5}
+        - {x: 158.5, y: -140.5}
+        - {x: 207.5, y: -117.5}
+        - {x: 223.5, y: -79.5}
+        - {x: 255.5, y: -117.5}
+        - {x: 273.5, y: -110.5}
+        - {x: 282.5, y: -103.5}
+        - {x: 302.5, y: -90.5}
+        - {x: 357.5, y: -99.5}
+        - {x: 383.5, y: -69.5}
+        - {x: 407.5, y: -68.5}
+        - {x: 407.5, y: 6.5}
+        - {x: 355.5, y: 100.5}
+        - {x: 301.5, y: 99.5}
+        - {x: 276.5, y: 140.5}
+        - {x: 260.5, y: 140.5}
+        - {x: 240.5, y: 126.5}
+        - {x: 230.5, y: 96.5}
+        - {x: 211.5, y: 100.5}
+        - {x: 185.5, y: 86.5}
+        - {x: 150.5, y: 115.5}
+        - {x: 114.5, y: 61.5}
+        - {x: 101.5, y: 92.5}
+        - {x: 70.5, y: 135.5}
+        - {x: 57.5, y: 128.5}
+        - {x: 32.5, y: 84.5}
+        - {x: -1.5, y: 94.5}
+        - {x: -95.5, y: 96.5}
+        - {x: -125.5, y: 52.5}
+        - {x: -139.5, y: 93.5}
+        - {x: -175.5, y: 139.5}
+        - {x: -215.5, y: 107.5}
+        - {x: -248.5, y: 140.5}
+        - {x: -266.5, y: 140.5}
+        - {x: -279.5, y: 125.5}
+        - {x: -308.5, y: 70.5}
+        - {x: -347.5, y: 113.5}
+        - {x: -385.5, y: 66.5}
+        - {x: -390.5, y: 56.5}
+        - {x: -407.5, y: 6.5}
+        - {x: -407.5, y: -52.5}
+        - {x: -379.5, y: -61.5}
+        - {x: -343.5, y: -107.5}
+        - {x: -291.5, y: -121.5}
+        - {x: -232.5, y: -95.5}
+        - {x: -237.5, y: -115.5}
+        - {x: -210.5, y: -131.5}
+        - {x: -194.5, y: -140.5}
+        - {x: -157.5, y: -140.5}
+        - {x: -155.5, y: -133.5}
+        - {x: -124.5, y: -140.5}
+        - {x: -117.5, y: -140.5}
+    - name: ForestElements_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 413
+        width: 224
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 59}
+        - {x: -112, y: 55}
+        - {x: -112, y: -72}
+        - {x: -107, y: -83}
+        - {x: 112, y: -83}
+        - {x: 112, y: 59}
+      - - {x: -78, y: 83}
+        - {x: -77, y: 80}
+        - {x: -74, y: 80}
+        - {x: -72, y: 82}
+        - {x: -72, y: 83}
+    - name: ForestElements_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 501
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ForestElements_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 429
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 50.5}
+        - {x: -29, y: 42.5}
+        - {x: -29, y: 10.5}
+        - {x: -15, y: -47.5}
+        - {x: -13, y: -50.5}
+        - {x: 13, y: -50.5}
+        - {x: 16, y: -43.5}
+        - {x: 29, y: 35.5}
+        - {x: 29, y: 50.5}
+    - name: ForestElements_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 466
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 5}
+        - {x: 27, y: 44}
+        - {x: -17, y: 44}
+        - {x: -29, y: 26}
+        - {x: -29, y: -24}
+        - {x: -16, y: -44}
+        - {x: 22, y: -44}
+        - {x: 29, y: -5}
+        - {x: 29, y: 17}
+        - {x: 24, y: 15}
+    - name: ForestElements_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 511
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 34}
+        - {x: -30, y: 14}
+        - {x: -30, y: -16}
+        - {x: -16, y: -34}
+        - {x: 24, y: -34}
+        - {x: 30, y: -29}
+        - {x: 30, y: 34}
+    - name: ForestElements_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 218
+        width: 202
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 43.5}
+        - {x: -8, y: 36.5}
+        - {x: -101, y: -22.5}
+        - {x: -101, y: -43.5}
+        - {x: 91, y: -43.5}
+        - {x: 101, y: -42.5}
+        - {x: 101, y: 30.5}
+        - {x: 88, y: 43.5}
+    - name: ForestElements_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 294
+        width: 246
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 70}
+        - {x: -74, y: 70}
+        - {x: -123, y: 14}
+        - {x: -123, y: -60}
+        - {x: -121, y: -66}
+        - {x: -93, y: -70}
+        - {x: 114, y: -70}
+        - {x: 123, y: -65}
+        - {x: 123, y: -15}
+        - {x: 50, y: 62}
+    - name: ForestElements_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 62.5}
+        - {x: -57, y: 43.5}
+        - {x: -57, y: -42.5}
+        - {x: -45, y: -62.5}
+        - {x: 37, y: -62.5}
+        - {x: 57, y: -47.5}
+        - {x: 57, y: 31.5}
+        - {x: 44, y: 62.5}
+    - name: ForestElements_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 42
+        width: 217
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 56.5}
+        - {x: -108.5, y: -4.5}
+        - {x: -108.5, y: -56.5}
+        - {x: 108.5, y: -56.5}
+        - {x: 108.5, y: -6.5}
+        - {x: 17.5, y: 56.5}
+      - - {x: 92.5, y: 56.5}
+        - {x: 92.5, y: 55.5}
+        - {x: 95.5, y: 52.5}
+        - {x: 108.5, y: 52.5}
+        - {x: 108.5, y: 56.5}
+    - name: ForestElements_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 152
+        width: 198
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 46}
+        - {x: -73, y: 21}
+        - {x: -99, y: -22}
+        - {x: -99, y: -40}
+        - {x: -93, y: -46}
+        - {x: 94, y: -46}
+        - {x: 99, y: -41}
+        - {x: 99, y: -15}
+        - {x: 10, y: 46}
+    - name: ForestElements_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 37
+        width: 147
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 42}
+        - {x: -37.5, y: 24}
+        - {x: -73.5, y: -16}
+        - {x: -73.5, y: -38}
+        - {x: -70.5, y: -42}
+        - {x: 73.5, y: -42}
+        - {x: 73.5, y: 18}
+        - {x: 50.5, y: 42}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

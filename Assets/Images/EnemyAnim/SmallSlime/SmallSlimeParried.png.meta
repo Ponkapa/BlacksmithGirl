@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 1a28f6361d5c2204e8af2ef8f4d52121
+timeCreated: 1462823015
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SmallSlimeParried_0
+    21300002: SmallSlimeParried_1
+    21300004: SmallSlimeParried_2
+    21300006: SmallSlimeParried_3
+    21300008: SmallSlimeParried_4
+    21300010: SmallSlimeParried_5
+    21300012: SmallSlimeParried_6
+    21300014: SmallSlimeParried_7
+    21300016: SmallSlimeParried_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SmallSlimeParried_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 462
+        width: 147
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 69.5}
+        - {x: -73.5, y: 69.5}
+        - {x: -73.5, y: -11.5}
+        - {x: -67.5, y: -56.5}
+        - {x: -6.5, y: -69.5}
+        - {x: 73.5, y: -69.5}
+        - {x: 73.5, y: -25.5}
+        - {x: 9.5, y: 64.5}
+    - name: SmallSlimeParried_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 453
+        width: 120
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -89}
+        - {x: 60, y: -89}
+        - {x: 60, y: -47}
+        - {x: -2, y: 89}
+        - {x: -26, y: 89}
+        - {x: -30, y: 85}
+        - {x: -60, y: 53}
+    - name: SmallSlimeParried_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 448
+        width: 149
+        height: 98
+      alignment: 9
+      pivot: {x: 0.41861188, y: 0.81498003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.62683, y: -15.868042}
+        - {x: 31.626831, y: -24.868042}
+        - {x: 29.626831, y: -22.868042}
+        - {x: 28.626831, y: -22.868042}
+        - {x: 26.626831, y: -20.868042}
+        - {x: 29.626831, y: -22.868042}
+        - {x: 31.626831, y: -22.868042}
+        - {x: 33.62683, y: -20.868042}
+        - {x: 34.62683, y: -17.868042}
+        - {x: 37.62683, y: -9.868042}
+        - {x: 79.62683, y: -10.868042}
+        - {x: 86.62683, y: -4.868042}
+        - {x: 86.62683, y: 18.131958}
+        - {x: -21.373169, y: 18.131958}
+        - {x: -62.37317, y: -42.868042}
+        - {x: -62.37317, y: -74.86804}
+        - {x: -59.37317, y: -79.86804}
+        - {x: 80.62683, y: -79.86804}
+        - {x: 86.62683, y: -69.86804}
+        - {x: 86.62683, y: -56.868042}
+    - name: SmallSlimeParried_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 244
+        width: 209
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: -8.5}
+        - {x: 60.5, y: -10.5}
+        - {x: 57.5, y: -13.5}
+        - {x: 51.5, y: 5.5}
+        - {x: 11.5, y: 53.5}
+        - {x: -104.5, y: 53.5}
+        - {x: -104.5, y: -21.5}
+        - {x: -85.5, y: -53.5}
+        - {x: 100.5, y: -53.5}
+        - {x: 104.5, y: -39.5}
+        - {x: 104.5, y: -32.5}
+        - {x: 83.5, y: -14.5}
+    - name: SmallSlimeParried_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 244
+        width: 149
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 87}
+        - {x: -58.5, y: 24}
+        - {x: -74.5, y: -54}
+        - {x: -74.5, y: -79}
+        - {x: -65.5, y: -87}
+        - {x: 74.5, y: -87}
+        - {x: 74.5, y: -12}
+        - {x: 19.5, y: 87}
+    - name: SmallSlimeParried_5
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 240
+        width: 164
+        height: 87
+      alignment: 9
+      pivot: {x: 0.37900078, y: 0.8041182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.84387, y: -25.958282}
+        - {x: 57.843872, y: -27.958282}
+        - {x: 65.84387, y: -25.958282}
+        - {x: 68.84387, y: -25.958282}
+        - {x: 70.84387, y: -24.958282}
+        - {x: 83.84387, y: -23.958282}
+        - {x: 91.84387, y: -16.958282}
+        - {x: 101.84387, y: 8.041718}
+        - {x: 101.84387, y: 10.041718}
+        - {x: 76.84387, y: 17.041718}
+        - {x: -24.156128, y: 17.041718}
+        - {x: -62.156128, y: -46.958282}
+        - {x: -62.156128, y: -65.95828}
+        - {x: -57.156128, y: -69.95828}
+        - {x: 98.84387, y: -69.95828}
+        - {x: 101.84387, y: -65.95828}
+        - {x: 101.84387, y: -46.958282}
+        - {x: 83.84387, y: -25.958282}
+    - name: SmallSlimeParried_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 160
+        height: 110
+      alignment: 9
+      pivot: {x: 0.47314376, y: 0.48223183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.703003, y: 56.9545}
+        - {x: -48.703003, y: 50.9545}
+        - {x: -75.703, y: 17.954498}
+        - {x: -75.703, y: -4.0455017}
+        - {x: -62.703003, y: -13.045502}
+        - {x: -37.703003, y: -10.045502}
+        - {x: -48.703003, y: -29.045502}
+        - {x: -42.703003, y: -46.0455}
+        - {x: -35.703003, y: -53.0455}
+        - {x: 69.297, y: -53.0455}
+        - {x: 84.297, y: -22.045502}
+        - {x: 84.297, y: 32.9545}
+        - {x: 33.296997, y: 56.9545}
+    - name: SmallSlimeParried_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 14
+        width: 128
+        height: 151
+      alignment: 9
+      pivot: {x: 0.34497, y: 0.33166292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.84384, y: 28.9189}
+        - {x: 30.843842, y: 100.9189}
+        - {x: -43.15616, y: 100.9189}
+        - {x: -44.15616, y: 99.9189}
+        - {x: -44.15616, y: -50.0811}
+        - {x: 63.84384, y: -50.0811}
+        - {x: 83.84384, y: -5.0811005}
+        - {x: 83.84384, y: 24.9189}
+        - {x: 73.84384, y: 27.9189}
+    - name: SmallSlimeParried_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 20
+        width: 143
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4229062, y: 0.51157355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.524414, y: 51.284775}
+        - {x: -42.475586, y: 40.284775}
+        - {x: -60.475586, y: -11.715225}
+        - {x: -60.475586, y: -53.715225}
+        - {x: 45.524414, y: -53.715225}
+        - {x: 64.524414, y: -50.715225}
+        - {x: 78.524414, y: -21.715225}
+        - {x: 82.524414, y: -12.715225}
+        - {x: 82.524414, y: 51.284775}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

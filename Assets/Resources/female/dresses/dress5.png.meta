@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 5e7114c93fecd124eaef1f31e28a4c1a
+timeCreated: 1462867541
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dress5_0
+    21300002: dress5_1
+    21300004: dress5_2
+    21300006: dress5_3
+    21300008: dress5_4
+    21300010: dress5_5
+    21300012: dress5_6
+    21300014: dress5_7
+    21300016: dress5_8
+    21300018: dress5_9
+    21300020: dress5_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dress5_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 221
+        width: 113
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4841688, y: 0.46776623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.711075, y: 78.7706}
+        - {x: -48.711075, y: 71.7706}
+        - {x: -54.711075, y: -1.2294006}
+        - {x: -54.711075, y: -69.2294}
+        - {x: 58.288925, y: -69.2294}
+        - {x: 58.288925, y: 78.7706}
+    - name: dress5_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 222
+        width: 121
+        height: 146
+      alignment: 9
+      pivot: {x: 0.45071727, y: 0.46732467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.46321, y: 77.7706}
+        - {x: -25.536789, y: 77.7706}
+        - {x: -54.53679, y: -19.2294}
+        - {x: -54.53679, y: -62.2294}
+        - {x: -46.53679, y: -68.2294}
+        - {x: 52.46321, y: -68.2294}
+        - {x: 59.46321, y: -66.2294}
+        - {x: 66.46321, y: -38.2294}
+        - {x: 66.46321, y: 10.770599}
+    - name: dress5_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 225
+        width: 113
+        height: 144
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.46272978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.50006, y: 77.36691}
+        - {x: -50.50006, y: 68.36691}
+        - {x: -56.50006, y: 9.366913}
+        - {x: -56.50006, y: -66.63309}
+        - {x: 31.499939, y: -66.63309}
+        - {x: 56.49994, y: -60.633087}
+        - {x: 56.49994, y: 58.366913}
+        - {x: 48.49994, y: 77.36691}
+    - name: dress5_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 223
+        width: 108
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5165654, y: 0.4714092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.789062, y: 77.174255}
+        - {x: -55.789062, y: -3.8257446}
+        - {x: -55.789062, y: -68.825745}
+        - {x: 43.210938, y: -68.825745}
+        - {x: 52.210938, y: -21.825745}
+        - {x: 52.210938, y: 76.174255}
+        - {x: 50.210938, y: 77.174255}
+    - name: dress5_4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 221
+        width: 113
+        height: 146
+      alignment: 9
+      pivot: {x: 0.48070586, y: 0.47013396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.319763, y: 77.36044}
+        - {x: -44.319763, y: 75.36044}
+        - {x: -54.319763, y: -26.639557}
+        - {x: -54.319763, y: -68.63956}
+        - {x: 43.680237, y: -68.63956}
+        - {x: 58.680237, y: -34.639557}
+        - {x: 58.680237, y: 27.360443}
+        - {x: 44.680237, y: 77.36044}
+    - name: dress5_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 219
+        width: 123
+        height: 148
+      alignment: 9
+      pivot: {x: 0.45881963, y: 0.4875552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.565186, y: 12.841827}
+        - {x: 34.565186, y: 13.841827}
+        - {x: 33.565186, y: 17.841827}
+        - {x: 28.565186, y: 23.841827}
+        - {x: 28.565186, y: 25.841827}
+        - {x: 30.565186, y: 23.841827}
+        - {x: 34.565186, y: 14.841827}
+        - {x: 40.565186, y: 4.8418274}
+        - {x: 50.565186, y: -8.158173}
+        - {x: 53.565186, y: -10.158173}
+        - {x: 62.565186, y: -9.158173}
+        - {x: 66.565186, y: -7.1581726}
+        - {x: 66.565186, y: 10.841827}
+        - {x: 45.565186, y: 75.84183}
+        - {x: -27.434814, y: 75.84183}
+        - {x: -56.434814, y: -35.158173}
+        - {x: -56.434814, y: -67.15817}
+        - {x: -35.434814, y: -72.15817}
+        - {x: 10.565186, y: -72.15817}
+        - {x: 23.565186, y: -66.15817}
+        - {x: 43.565186, y: -54.158173}
+        - {x: 42.565186, y: -20.158173}
+    - name: dress5_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 221
+        width: 114
+        height: 146
+      alignment: 9
+      pivot: {x: 0.4919214, y: 0.4716151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.07904, y: 77.144196}
+        - {x: -56.07904, y: -12.855804}
+        - {x: -56.07904, y: -68.855804}
+        - {x: 57.92096, y: -68.855804}
+        - {x: 57.92096, y: 57.144196}
+        - {x: 53.92096, y: 77.144196}
+    - name: dress5_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 113
+        height: 150
+      alignment: 9
+      pivot: {x: 0.48777494, y: 0.4846511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.118568, y: 77.30234}
+        - {x: -55.11857, y: -13.697662}
+        - {x: -55.11857, y: -68.69766}
+        - {x: -50.11857, y: -69.69766}
+        - {x: -30.118568, y: -72.69766}
+        - {x: 47.88143, y: -72.69766}
+        - {x: 57.88143, y: -46.697662}
+        - {x: 57.88143, y: 34.302338}
+        - {x: 43.88143, y: 77.30234}
+    - name: dress5_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32
+        width: 117
+        height: 150
+      alignment: 9
+      pivot: {x: 0.48032176, y: 0.4877208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.802353, y: 76.84188}
+        - {x: -27.197647, y: 76.84188}
+        - {x: -39.197647, y: 42.84188}
+        - {x: -56.197647, y: -18.15812}
+        - {x: -56.197647, y: -69.15812}
+        - {x: -39.197647, y: -73.15812}
+        - {x: 33.802353, y: -73.15812}
+        - {x: 44.802353, y: -65.15812}
+        - {x: 60.802353, y: -41.15812}
+        - {x: 60.802353, y: 42.84188}
+    - name: dress5_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 32
+        width: 113
+        height: 150
+      alignment: 9
+      pivot: {x: 0.47962505, y: 0.48158127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.197632, y: 77.76281}
+        - {x: -54.19763, y: -13.23719}
+        - {x: -54.19763, y: -68.23719}
+        - {x: -49.19763, y: -69.23719}
+        - {x: -29.197632, y: -72.23719}
+        - {x: 48.80237, y: -72.23719}
+        - {x: 58.80237, y: -46.23719}
+        - {x: 58.80237, y: 34.76281}
+        - {x: 44.80237, y: 77.76281}
+    - name: dress5_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 108
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5042637, y: 0.48158127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.46048, y: 77.76281}
+        - {x: -35.46048, y: 76.76281}
+        - {x: -54.46048, y: -32.23719}
+        - {x: -54.46048, y: -64.23719}
+        - {x: -48.46048, y: -66.23719}
+        - {x: -28.46048, y: -72.23719}
+        - {x: 53.53952, y: -72.23719}
+        - {x: 53.53952, y: 77.76281}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

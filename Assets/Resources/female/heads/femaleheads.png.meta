@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 69aa1b61ab5edaf44b3faa43d3c34d4e
+timeCreated: 1462854824
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: femaleheads_0
+    21300002: femaleheads_1
+    21300004: femaleheads_2
+    21300006: femaleheads_3
+    21300008: femaleheads_4
+    21300010: femaleheads_5
+    21300012: femaleheads_6
+    21300014: femaleheads_7
+    21300016: femaleheads_8
+    21300018: femaleheads_9
+    21300020: femaleheads_10
+    21300022: femaleheads_11
+    21300024: femaleheads_12
+    21300026: femaleheads_13
+    21300028: femaleheads_14
+    21300030: femaleheads_15
+    21300032: femaleheads_16
+    21300034: femaleheads_17
+    21300036: femaleheads_18
+    21300038: femaleheads_19
+    21300040: femaleheads_20
+    21300042: femaleheads_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 140
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: femaleheads_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 379
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 56}
+        - {x: -44, y: 56}
+        - {x: -44, y: -56}
+        - {x: 38, y: -56}
+        - {x: 44, y: -51}
+        - {x: 44, y: 6}
+        - {x: 40, y: 38}
+    - name: femaleheads_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 377
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 39}
+        - {x: 30.5, y: 55}
+        - {x: -26.5, y: 55}
+        - {x: -43.5, y: 49}
+        - {x: -43.5, y: -47}
+        - {x: -34.5, y: -55}
+        - {x: 31.5, y: -55}
+        - {x: 43.5, y: -47}
+    - name: femaleheads_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 375
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 55}
+        - {x: -43.5, y: 55}
+        - {x: -43.5, y: -55}
+        - {x: 38.5, y: -55}
+        - {x: 43.5, y: -47}
+        - {x: 43.5, y: 14}
+        - {x: 35.5, y: 48}
+    - name: femaleheads_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 376
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 55.5}
+        - {x: -43, y: 45.5}
+        - {x: -43, y: -49.5}
+        - {x: -37, y: -55.5}
+        - {x: 37, y: -55.5}
+        - {x: 43, y: -54.5}
+        - {x: 43, y: 50.5}
+        - {x: 32, y: 55.5}
+    - name: femaleheads_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 373
+        width: 86
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4731605, y: 0.42009935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.691803, y: 75.387085}
+        - {x: -40.691803, y: 67.387085}
+        - {x: -40.691803, y: -54.612915}
+        - {x: 43.308197, y: -54.612915}
+        - {x: 45.308197, y: -53.612915}
+        - {x: 45.308197, y: 75.387085}
+    - name: femaleheads_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 377
+        width: 95
+        height: 125
+      alignment: 9
+      pivot: {x: 0.45140573, y: 0.43536913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.883545, y: 70.57886}
+        - {x: -29.883545, y: 68.57886}
+        - {x: -42.883545, y: 37.578857}
+        - {x: -42.883545, y: -54.421143}
+        - {x: 52.116455, y: -54.421143}
+        - {x: 52.116455, y: 57.578857}
+        - {x: 45.116455, y: 70.57886}
+    - name: femaleheads_6
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 366
+        width: 96
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4312102, y: 0.4167586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.39618, y: 79.32083}
+        - {x: -41.39618, y: 43.32083}
+        - {x: -41.39618, y: -55.67917}
+        - {x: -40.39618, y: -56.67917}
+        - {x: 47.60382, y: -56.67917}
+        - {x: 54.60382, y: -52.67917}
+        - {x: 54.60382, y: 63.32083}
+        - {x: 9.603821, y: 79.32083}
+    - name: femaleheads_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 363
+        width: 85
+        height: 127
+      alignment: 9
+      pivot: {x: 0.46670353, y: 0.4331444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.6698, y: 57.99066}
+        - {x: -39.6698, y: 36.99066}
+        - {x: -39.6698, y: -55.00934}
+        - {x: 45.3302, y: -55.00934}
+        - {x: 45.3302, y: 71.99066}
+        - {x: -8.6698, y: 71.99066}
+    - name: femaleheads_8
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 363
+        width: 85
+        height: 127
+      alignment: 9
+      pivot: {x: 0.46670353, y: 0.44057292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.6698, y: 71.04724}
+        - {x: -39.6698, y: 64.04724}
+        - {x: -39.6698, y: -55.95276}
+        - {x: 35.3302, y: -55.95276}
+        - {x: 45.3302, y: -48.95276}
+        - {x: 45.3302, y: 71.04724}
+    - name: femaleheads_9
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 362
+        width: 84
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4775376, y: 0.41892624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.11316, y: 74.37744}
+        - {x: -40.11316, y: 58.37744}
+        - {x: -40.11316, y: -53.62256}
+        - {x: 43.88684, y: -53.62256}
+        - {x: 43.88684, y: 74.37744}
+    - name: femaleheads_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 246
+        width: 84
+        height: 116
+      alignment: 9
+      pivot: {x: 0.47753775, y: 0.4674688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.11317, y: 61.77362}
+        - {x: -40.11317, y: -54.22638}
+        - {x: 43.88683, y: -54.22638}
+        - {x: 43.88683, y: 59.77362}
+        - {x: 33.88683, y: 61.77362}
+    - name: femaleheads_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 244
+        width: 84
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4550754, y: 0.48359296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.226334, y: 59.38681}
+        - {x: -38.226334, y: 54.38681}
+        - {x: -38.226334, y: -53.61319}
+        - {x: -37.226334, y: -55.61319}
+        - {x: 45.773666, y: -55.61319}
+        - {x: 45.773666, y: 59.38681}
+    - name: femaleheads_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 243
+        width: 85
+        height: 116
+      alignment: 9
+      pivot: {x: 0.47780222, y: 0.4593361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.61319, y: 62.71701}
+        - {x: -40.61319, y: -5.2829895}
+        - {x: -30.61319, y: -14.2829895}
+        - {x: -27.61319, y: -15.2829895}
+        - {x: -26.61319, y: -15.2829895}
+        - {x: -40.61319, y: -28.28299}
+        - {x: -40.61319, y: -48.28299}
+        - {x: -36.61319, y: -53.28299}
+        - {x: 44.38681, y: -53.28299}
+        - {x: 44.38681, y: 62.71701}
+    - name: femaleheads_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 240
+        width: 84
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4550756, y: 0.4671859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.22635, y: 61.27362}
+        - {x: -38.22635, y: 53.27362}
+        - {x: -38.22635, y: -44.72638}
+        - {x: -28.226349, y: -53.72638}
+        - {x: 45.77365, y: -53.72638}
+        - {x: 45.77365, y: 11.273621}
+        - {x: 44.77365, y: 17.27362}
+        - {x: 36.77365, y: 55.27362}
+        - {x: 31.773651, y: 61.27362}
+      - - {x: 37.77365, y: -52.72638}
+        - {x: 37.77365, y: -53.72638}
+        - {x: 45.77365, y: -53.72638}
+        - {x: 45.77365, y: -50.72638}
+        - {x: 39.77365, y: -50.72638}
+    - name: femaleheads_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 220
+        width: 92
+        height: 123
+      alignment: 9
+      pivot: {x: 0.48974544, y: 0.45398048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.94342, y: -19.8396}
+        - {x: 45.94342, y: -6.8395996}
+        - {x: 46.94342, y: -2.8395996}
+        - {x: 46.94342, y: 67.1604}
+        - {x: -45.05658, y: 67.1604}
+        - {x: -45.05658, y: -55.8396}
+        - {x: 46.94342, y: -55.8396}
+        - {x: 46.94342, y: -28.8396}
+        - {x: 31.94342, y: -19.8396}
+    - name: femaleheads_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 228
+        width: 92
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45203024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 64.66043}
+        - {x: -46, y: 60.66043}
+        - {x: -46, y: -46.33957}
+        - {x: -28, y: -53.33957}
+        - {x: 46, y: -53.33957}
+        - {x: 46, y: 62.66043}
+        - {x: 44, y: 64.66043}
+    - name: femaleheads_16
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 228
+        width: 96
+        height: 117
+      alignment: 9
+      pivot: {x: 0.53930855, y: 0.45968392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.77362, y: 63.21698}
+        - {x: -51.77362, y: 53.21698}
+        - {x: -51.77362, y: -51.78302}
+        - {x: -42.77362, y: -53.78302}
+        - {x: 42.22638, y: -53.78302}
+        - {x: 44.22638, y: -51.78302}
+        - {x: 44.22638, y: 55.21698}
+        - {x: 25.22638, y: 63.21698}
+    - name: femaleheads_17
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 228
+        width: 96
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5196546, y: 0.4680204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.88684, y: 62.77359}
+        - {x: -49.88684, y: 56.77359}
+        - {x: -49.88684, y: -45.22641}
+        - {x: -36.88684, y: -55.22641}
+        - {x: 41.11316, y: -55.22641}
+        - {x: 46.11316, y: -54.22641}
+        - {x: 46.11316, y: 41.77359}
+        - {x: 26.11316, y: 62.77359}
+    - name: femaleheads_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 96
+        height: 133
+      alignment: 9
+      pivot: {x: 0.47215047, y: 0.41289055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.326447, y: 78.085556}
+        - {x: -41.326447, y: 76.085556}
+        - {x: -45.326447, y: 64.085556}
+        - {x: -45.326447, y: -46.914444}
+        - {x: -39.326447, y: -54.914444}
+        - {x: 44.673553, y: -54.914444}
+        - {x: 50.673553, y: -48.914444}
+        - {x: 50.673553, y: 78.085556}
+    - name: femaleheads_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 96
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4721508, y: 0.41898206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.326477, y: 76.69437}
+        - {x: -31.326477, y: 70.69437}
+        - {x: -45.326477, y: 56.694366}
+        - {x: -45.326477, y: -38.305634}
+        - {x: -41.326477, y: -55.305634}
+        - {x: 46.673523, y: -55.305634}
+        - {x: 50.673523, y: -54.305634}
+        - {x: 50.673523, y: 75.69437}
+        - {x: 49.673523, y: 76.69437}
+    - name: femaleheads_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 99
+        width: 96
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48143387, y: 0.40619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.78235, y: 75.97673}
+        - {x: 48.78235, y: 78.97673}
+        - {x: -12.217651, y: 78.97673}
+        - {x: -30.217651, y: 75.97673}
+        - {x: -46.21765, y: 45.97673}
+        - {x: -46.21765, y: -33.02327}
+        - {x: -45.21765, y: -43.02327}
+        - {x: -33.21765, y: -54.02327}
+        - {x: 31.782349, y: -54.02327}
+        - {x: 49.78235, y: -49.02327}
+        - {x: 49.78235, y: -37.02327}
+        - {x: 48.78235, y: -33.02327}
+        - {x: 41.78235, y: -25.02327}
+        - {x: 49.78235, y: 4.9767303}
+    - name: femaleheads_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 107
+        width: 96
+        height: 133
+      alignment: 9
+      pivot: {x: 0.47215047, y: 0.4201914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.673553, y: 77.11455}
+        - {x: -6.3264465, y: 77.11455}
+        - {x: -29.326447, y: 72.11455}
+        - {x: -45.326447, y: 43.114548}
+        - {x: -45.326447, y: -26.885452}
+        - {x: -43.326447, y: -48.885452}
+        - {x: -22.326447, y: -55.885452}
+        - {x: 34.673553, y: -55.885452}
+        - {x: 50.673553, y: -45.885452}
+        - {x: 50.673553, y: 58.114548}
+        - {x: 46.673553, y: 70.11455}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

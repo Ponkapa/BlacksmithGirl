@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: a5d1118a44914984188a64e603963e4a
+timeCreated: 1461802829
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SkidStopAnim_0
+    21300002: SkidStopAnim_1
+    21300004: SkidStopAnim_2
+    21300006: SkidStopAnim_3
+    21300008: SkidStopAnim_4
+    21300010: SkidStopAnim_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SkidStopAnim_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 300
+        width: 221
+        height: 219
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.649994, y: 56.5}
+        - {x: -60.649994, y: 25.5}
+        - {x: -56.649994, y: 22.5}
+        - {x: -45.649994, y: 11.5}
+        - {x: -52.649994, y: 16.5}
+        - {x: -76.649994, y: 47.5}
+        - {x: -122.649994, y: 43.5}
+        - {x: -143.65, y: -4.5}
+        - {x: -143.65, y: -104.5}
+        - {x: -142.65, y: -109.5}
+        - {x: 77.350006, y: -109.5}
+        - {x: 77.350006, y: 70.5}
+        - {x: 69.350006, y: 86.5}
+        - {x: 43.350006, y: 109.5}
+        - {x: -46.649994, y: 109.5}
+        - {x: -82.649994, y: 97.5}
+    - name: SkidStopAnim_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 291
+        width: 206
+        height: 228
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.899994, y: 114}
+        - {x: -92.899994, y: 83}
+        - {x: -133.9, y: 24}
+        - {x: -133.9, y: -54}
+        - {x: 0.1000061, y: -114}
+        - {x: 72.100006, y: -114}
+        - {x: 72.100006, y: 101}
+        - {x: 57.100006, y: 114}
+    - name: SkidStopAnim_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 288
+        width: 199
+        height: 230
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.650024, y: 115}
+        - {x: -13.349976, y: 115}
+        - {x: -19.349976, y: 113}
+        - {x: -129.34998, y: 75}
+        - {x: -129.34998, y: -10}
+        - {x: -89.349976, y: -76}
+        - {x: -92.349976, y: -115}
+        - {x: 53.650024, y: -115}
+        - {x: 57.650024, y: -114}
+        - {x: 69.650024, y: 8}
+        - {x: 69.650024, y: 107}
+    - name: SkidStopAnim_3
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 286
+        width: 178
+        height: 232
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.299988, y: 89}
+        - {x: 52.299988, y: 116}
+        - {x: -15.700012, y: 116}
+        - {x: -103.70001, y: 106}
+        - {x: -115.70001, y: 90}
+        - {x: -115.70001, y: -101}
+        - {x: -86.70001, y: -116}
+        - {x: -6.700012, y: -116}
+        - {x: -4.700012, y: -114}
+        - {x: 12.299988, y: -43}
+        - {x: 50.299988, y: -16}
+        - {x: 62.299988, y: 19}
+      - - {x: -103.70001, y: -45}
+        - {x: -111.70001, y: -52}
+        - {x: -111.70001, y: -58}
+        - {x: -108.70001, y: -61}
+        - {x: -104.70001, y: -61}
+        - {x: -106.70001, y: -61}
+        - {x: -109.70001, y: -65}
+        - {x: -110.70001, y: -72}
+        - {x: -108.70001, y: -74}
+        - {x: -96.70001, y: -74}
+        - {x: -84.70001, y: -67}
+        - {x: -84.70001, y: -45}
+    - name: SkidStopAnim_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 24
+        width: 201
+        height: 237
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.350006, y: 118.5}
+        - {x: -28.649994, y: 118.5}
+        - {x: -46.649994, y: 115.5}
+        - {x: -42.649994, y: 81.5}
+        - {x: -35.649994, y: 39.5}
+        - {x: -59.649994, y: 68.5}
+        - {x: -92.649994, y: 66.5}
+        - {x: -130.65, y: 25.5}
+        - {x: -130.65, y: -2.5}
+        - {x: -116.649994, y: -33.5}
+        - {x: -79.649994, y: -116.5}
+        - {x: -67.649994, y: -118.5}
+        - {x: 36.350006, y: -118.5}
+        - {x: 56.350006, y: -106.5}
+        - {x: 70.350006, y: -2.5}
+        - {x: 70.350006, y: 112.5}
+      - - {x: -45.649994, y: -72.5}
+        - {x: -48.649994, y: -73.5}
+        - {x: -48.649994, y: -81.5}
+        - {x: -47.649994, y: -84.5}
+        - {x: -38.649994, y: -84.5}
+        - {x: -36.649994, y: -81.5}
+        - {x: -36.649994, y: -73.5}
+        - {x: -37.649994, y: -72.5}
+      - - {x: -68.649994, y: -66.5}
+        - {x: -70.649994, y: -70.5}
+        - {x: -70.649994, y: -72.5}
+        - {x: -68.649994, y: -76.5}
+        - {x: -61.649994, y: -76.5}
+        - {x: -59.649994, y: -75.5}
+        - {x: -59.649994, y: -68.5}
+        - {x: -64.649994, y: -66.5}
+    - name: SkidStopAnim_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 35
+        width: 199
+        height: 232
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.650024, y: -45}
+        - {x: 39.650024, y: -34}
+        - {x: 49.650024, y: -42}
+        - {x: 61.650024, y: -50}
+        - {x: 69.650024, y: -50}
+        - {x: 69.650024, y: -27}
+        - {x: 60.650024, y: -9}
+        - {x: 66.650024, y: -1}
+        - {x: 65.650024, y: 87}
+        - {x: 54.650024, y: 116}
+        - {x: -37.349976, y: 116}
+        - {x: -69.349976, y: 106}
+        - {x: -42.349976, y: 30}
+        - {x: -34.349976, y: 36}
+        - {x: -33.349976, y: 42}
+        - {x: -33.349976, y: 44}
+        - {x: -33.349976, y: 42}
+        - {x: -45.349976, y: -22}
+        - {x: -65.349976, y: 15}
+        - {x: -99.349976, y: 33}
+        - {x: -129.34998, y: 3}
+        - {x: -129.34998, y: -97}
+        - {x: -97.349976, y: -116}
+        - {x: -3.3499756, y: -116}
+        - {x: 4.6500244, y: -106}
+        - {x: 10.650024, y: -79}
+        - {x: 10.650024, y: -75}
+        - {x: 26.650024, y: -116}
+        - {x: 69.650024, y: -116}
+        - {x: 69.650024, y: -51}
+        - {x: 62.650024, y: -51}
+      - - {x: 66.650024, y: -24}
+        - {x: 68.650024, y: -26}
+        - {x: 69.650024, y: -26}
+        - {x: 69.650024, y: -21}
+        - {x: 67.650024, y: -21}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

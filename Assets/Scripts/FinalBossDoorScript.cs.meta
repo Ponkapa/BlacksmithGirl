@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d87458d079ea7a142b48a20514d48e4a
+timeCreated: 1463611849
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - finalBoss: {instanceID: 0}
+  - RightBar: {instanceID: 0}
+  - LeftBar: {instanceID: 0}
+  - MiddleBar: {instanceID: 0}
+  - HealthBar: {instanceID: 0}
+  - object1: {instanceID: 0}
+  - EvilLaugh: {fileID: 8300000, guid: 7435e1ea1e73edb4bbe6d6674fe096b6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

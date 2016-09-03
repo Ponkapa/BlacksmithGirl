@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: fdb479f2831af2c41b73b3373a4f3b61
+timeCreated: 1462236225
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IdleAnim_0
+    21300002: IdleAnim_1
+    21300004: IdleAnim_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IdleAnim_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 199
+        height: 233
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.65001, y: -37.5}
+        - {x: 66.65001, y: -50.5}
+        - {x: 68.65001, y: -50.5}
+        - {x: 68.65001, y: 83.5}
+        - {x: 43.65001, y: 116.5}
+        - {x: -80.34999, y: 116.5}
+        - {x: -129.34999, y: 63.5}
+        - {x: -129.34999, y: -64.5}
+        - {x: -98.34999, y: -85.5}
+        - {x: -61.34999, y: -116.5}
+        - {x: 59.65001, y: -116.5}
+        - {x: 68.65001, y: -105.5}
+        - {x: 68.65001, y: -52.5}
+        - {x: 36.65001, y: -41.5}
+      - - {x: 66.65001, y: -22.5}
+        - {x: 68.65001, y: -24.5}
+        - {x: 69.65001, y: -24.5}
+        - {x: 69.65001, y: -19.5}
+        - {x: 67.65001, y: -19.5}
+    - name: IdleAnim_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 43
+        width: 203
+        height: 233
+      alignment: 9
+      pivot: {x: 0.6425965, y: 0.49784988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.552917, y: -43.999023}
+        - {x: 34.552917, y: -26.999023}
+        - {x: 28.552917, y: -18.999023}
+        - {x: 44.552917, y: -33.999023}
+        - {x: 67.55292, y: -50.999023}
+        - {x: 69.55292, y: -43.999023}
+        - {x: 68.55292, y: -22.999023}
+        - {x: 59.552917, y: -1.9990234}
+        - {x: 54.552917, y: 2.0009766}
+        - {x: 46.552917, y: 17.000977}
+        - {x: 46.552917, y: 27.000977}
+        - {x: 43.552917, y: 33.000977}
+        - {x: 33.552917, y: 38.000977}
+        - {x: 37.552917, y: 68.00098}
+        - {x: 45.552917, y: 30.000977}
+        - {x: 46.552917, y: 30.000977}
+        - {x: 46.552917, y: 25.000977}
+        - {x: 48.552917, y: 14.000977}
+        - {x: 51.552917, y: 7.0009766}
+        - {x: 72.55292, y: -2.9990234}
+        - {x: 72.55292, y: 89.00098}
+        - {x: 47.552917, y: 117.00098}
+        - {x: -30.447083, y: 117.00098}
+        - {x: -35.447083, y: 116.00098}
+        - {x: -55.447083, y: 97.00098}
+        - {x: -130.44708, y: 50.000977}
+        - {x: -130.44708, y: -84.99902}
+        - {x: -116.44708, y: -115.99902}
+        - {x: 58.552917, y: -115.99902}
+        - {x: 66.55292, y: -55.999023}
+        - {x: 66.55292, y: -50.999023}
+        - {x: 61.552917, y: -46.999023}
+      - - {x: 67.55292, y: -21.999023}
+        - {x: 70.55292, y: -20.999023}
+        - {x: 70.55292, y: -17.999023}
+        - {x: 67.55292, y: -16.999023}
+        - {x: 65.55292, y: -18.999023}
+    - name: IdleAnim_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 43
+        width: 209
+        height: 233
+      alignment: 9
+      pivot: {x: 0.63308966, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.684265, y: -22.499985}
+        - {x: 58.684265, y: -3.4999847}
+        - {x: 42.684265, y: 36.500015}
+        - {x: 53.684265, y: 8.500015}
+        - {x: 56.684265, y: 5.5000153}
+        - {x: 59.684265, y: 6.5000153}
+        - {x: 59.684265, y: 14.500015}
+        - {x: 74.684265, y: -2.4999847}
+        - {x: 76.684265, y: -3.4999847}
+        - {x: 76.684265, y: 75.500015}
+        - {x: 54.684265, y: 116.500015}
+        - {x: -33.315735, y: 116.500015}
+        - {x: -70.315735, y: 98.500015}
+        - {x: -132.31573, y: 19.500015}
+        - {x: -132.31573, y: -63.499985}
+        - {x: -91.315735, y: -81.499985}
+        - {x: -39.315735, y: -116.499985}
+        - {x: 50.684265, y: -116.499985}
+        - {x: 65.684265, y: -102.499985}
+        - {x: 72.684265, y: -60.499985}
+        - {x: 66.684265, y: -49.499985}
+        - {x: 67.684265, y: -43.499985}
+      - - {x: 63.684265, y: -19.499985}
+        - {x: 65.684265, y: -21.499985}
+        - {x: 68.684265, y: -20.499985}
+        - {x: 68.684265, y: -17.499985}
+        - {x: 66.684265, y: -15.499985}
+        - {x: 63.684265, y: -16.499985}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

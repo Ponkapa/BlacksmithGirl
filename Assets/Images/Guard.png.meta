@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 296214b2285518c46a7b15f65116d196
+timeCreated: 1463534267
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Guard_0
+    21300002: Guard_1
+    21300004: Guard_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Guard_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 224
+        width: 215
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.5, y: -129.5}
+        - {x: 107.5, y: 95.5}
+        - {x: 98.5, y: 135.5}
+        - {x: 60.5, y: 158.5}
+        - {x: 36.5, y: 158.5}
+        - {x: -6.5, y: 117.5}
+        - {x: -2.5, y: 52.5}
+        - {x: -49.5, y: 33.5}
+        - {x: -49.5, y: 75.5}
+        - {x: -49.5, y: 73.5}
+        - {x: -36.5, y: 47.5}
+        - {x: -30.5, y: 49.5}
+        - {x: -22.5, y: 78.5}
+        - {x: -34.5, y: 111.5}
+        - {x: -103.5, y: 128.5}
+        - {x: -107.5, y: 105.5}
+        - {x: -107.5, y: -65.5}
+        - {x: -66.5, y: -162.5}
+        - {x: -56.5, y: -168.5}
+        - {x: -45.5, y: -165.5}
+        - {x: -14.5, y: -170.5}
+        - {x: 18.5, y: -170.5}
+        - {x: 36.5, y: -165.5}
+        - {x: 43.5, y: -156.5}
+        - {x: 34.5, y: -170.5}
+        - {x: 84.5, y: -170.5}
+      - - {x: 48.5, y: 170.5}
+        - {x: 48.5, y: 168.5}
+        - {x: 50.5, y: 166.5}
+        - {x: 52.5, y: 166.5}
+        - {x: 54.5, y: 168.5}
+        - {x: 53.5, y: 170.5}
+    - name: Guard_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 224
+        width: 218
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: -61.5}
+        - {x: 83, y: -58.5}
+        - {x: 83, y: -59.5}
+        - {x: 85, y: -63.5}
+        - {x: 84, y: -64.5}
+        - {x: 85, y: -67.5}
+        - {x: 92, y: -70.5}
+        - {x: 109, y: -60.5}
+        - {x: 109, y: 97.5}
+        - {x: 106, y: 137.5}
+        - {x: 82, y: 158.5}
+        - {x: -31, y: 158.5}
+        - {x: -109, y: 149.5}
+        - {x: -109, y: -170.5}
+        - {x: 87, y: -170.5}
+        - {x: 109, y: -145.5}
+        - {x: 109, y: -111.5}
+        - {x: 86, y: -68.5}
+        - {x: 84, y: -68.5}
+        - {x: 84, y: -62.5}
+      - - {x: 53, y: 166.5}
+        - {x: 56, y: 167.5}
+        - {x: 56, y: 170.5}
+        - {x: 51, y: 170.5}
+        - {x: 51, y: 168.5}
+    - name: Guard_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 224
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: -62.5}
+        - {x: 82, y: -55.5}
+        - {x: 84, y: -61.5}
+        - {x: 86, y: -65.5}
+        - {x: 109, y: -63.5}
+        - {x: 109, y: 64.5}
+        - {x: 91, y: 132.5}
+        - {x: 68, y: 157.5}
+        - {x: 52, y: 157.5}
+        - {x: 38, y: 153.5}
+        - {x: 5, y: 114.5}
+        - {x: -4, y: 57.5}
+        - {x: -53, y: 59.5}
+        - {x: -51, y: 92.5}
+        - {x: -51, y: 100.5}
+        - {x: -51, y: 98.5}
+        - {x: -44, y: 77.5}
+        - {x: -36, y: 72.5}
+        - {x: -11, y: 72.5}
+        - {x: -33, y: 157.5}
+        - {x: -92, y: 157.5}
+        - {x: -109, y: 129.5}
+        - {x: -109, y: 51.5}
+        - {x: -95, y: 35.5}
+        - {x: -91, y: 37.5}
+        - {x: -83, y: -134.5}
+        - {x: -78, y: -141.5}
+        - {x: -70, y: -141.5}
+        - {x: -65, y: -134.5}
+        - {x: -57, y: -3.5}
+        - {x: -1, y: -169.5}
+        - {x: 78, y: -169.5}
+        - {x: 93, y: -160.5}
+        - {x: 90, y: -72.5}
+      - - {x: 61, y: 169.5}
+        - {x: 61, y: 167.5}
+        - {x: 63, y: 165.5}
+        - {x: 65, y: 165.5}
+        - {x: 67, y: 167.5}
+        - {x: 66, y: 169.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
